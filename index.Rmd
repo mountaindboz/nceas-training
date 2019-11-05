@@ -17,7 +17,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Nicole's New section
 
--this is where Nicole entered data
+- this is where Nicole entered data
+- this is where Nicole entered more data
 
 ```{r graphics, fig.align = 'center', echo = FALSE}
 knitr::include_graphics("WorkingStyles.jpg")
