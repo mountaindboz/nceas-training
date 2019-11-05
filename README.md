@@ -10,4 +10,4 @@ changes...
 
 ## Nicole's new additions
 
-- here is something to change
+- here is something to change - new addition
