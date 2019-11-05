@@ -1,0 +1,92 @@
+---
+title: "Net Methylmercury Loads from the Yolo Bypass"
+author: "Dave Bosworth"
+date: "11/4/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+We collected water samples from the main inputs and outputs to the Yolo Bypass to calculate mass loads of methylmercury (MeHg) entering and exiting the Bypass during flooding events. We would like to calculate the net loads of MeHg exiting the Bypass for each of our 11 sampling events.
+
+First, we need to bring in the MeHg mass load data.
+
+```{r, message = FALSE}
+library(tidyverse)
+loads <- read_csv("All_YB_Loads-R.csv")
+```
+
+This data contains more data than we need, so I cleaned and filtered the data a bit in order to calculate net loads.
+
+```{r}
+loads <- loads %>% 
+  select(-c(Conc:Flow)) %>% 
+  filter(
+    Analyte == "MeHg- total",
+    LocType != "Below Liberty"
+  )
+```
+
+This is what the loads dataframe looks like so far:
+
+```{r, echo = FALSE}
+head(loads)
+```
+
+
+# Analysis
+
+To calculate net loads, we first need to sum the loads for the inputs and outputs since there are multiple stations for each. The net load is then the difference between the outlet and inlet loads for each sampling event.
+
+```{r}
+netLoads <- loads %>% 
+  group_by(SamplingEvent, LocType) %>% 
+  summarize(TotalLoad = sum(Load)) %>% 
+  ungroup() %>% 
+  pivot_wider(names_from = LocType, values_from = TotalLoad) %>% 
+  mutate(NetLoad = Outlet - Inlet)
+```
+
+```{r, echo = FALSE}
+# Set order for SamplingEvent
+SampEvents <- sort(unique(netLoads$SamplingEvent))
+SampEventsOrder <- SampEvents[c(3,9,5:7,4,8,10:11,1:2)]
+
+netLoads <- netLoads %>% 
+  mutate(SamplingEvent = factor(SamplingEvent, levels = SampEventsOrder)) %>% 
+  arrange(SamplingEvent)
+
+```
+
+Here are the net loads in grams per day: 
+
+```{r, echo = FALSE}
+netLoads
+```
+
+# Results
+
+We would like a quick plot to visualize the net loads of MeHg for each sampling event.
+
+```{r}
+netLoads %>% 
+  ggplot(
+    aes(
+      x = SamplingEvent,
+      y = NetLoad
+    )
+  ) +
+  geom_col() +
+  labs(
+    x = "Sampling Event",
+    y = "Net MeHg Load (g/day)"
+  ) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+```
+
+The average net load of MeHg of all 11 sampling events was `r signif(mean(netLoads$NetLoad), 3)` g/day.
+
