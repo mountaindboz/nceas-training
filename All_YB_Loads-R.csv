@@ -1,0 +1,1461 @@
+﻿SamplingEvent,Year,StationName,Analyte,Conc,ConcUnits,Flow,LocType,Load,LoadUnits
+"Dec 22-23, 2014",2014,CCSB- Overflow Weir,Chloride- filtered,42,mg/L,1200.1000000000001,Inlet,123.3,"1,000 kg/day"
+"Dec 22-23, 2014",2014,CCSB- Overflow Weir,DOC,5.8,mg/L as C,1200.1000000000001,Inlet,17.03,"1,000 kg/day"
+"Dec 22-23, 2014",2014,CCSB- Overflow Weir,MeHg- filtered,0.094,ng/L,1200.1000000000001,Inlet,0.276,g/day
+"Dec 22-23, 2014",2014,CCSB- Overflow Weir,MeHg- particulate,0.0975,ng/L,1200.1000000000001,Inlet,0.2863,g/day
+"Dec 22-23, 2014",2014,CCSB- Overflow Weir,MeHg- total,0.192,ng/L,1200.1000000000001,Inlet,0.5637,g/day
+"Dec 22-23, 2014",2014,CCSB- Overflow Weir,POC,0.6,mg/L as C,1200.1000000000001,Inlet,1.762,"1,000 kg/day"
+"Dec 22-23, 2014",2014,CCSB- Overflow Weir,THg- filtered,8.4,ng/L,1200.1000000000001,Inlet,24.66,g/day
+"Dec 22-23, 2014",2014,CCSB- Overflow Weir,THg- particulate,34.2,ng/L,1200.1000000000001,Inlet,100.4,g/day
+"Dec 22-23, 2014",2014,CCSB- Overflow Weir,THg- total,42.6,ng/L,1200.1000000000001,Inlet,125.1,g/day
+"Dec 22-23, 2014",2014,CCSB- Overflow Weir,TOC,6.4,mg/L as C,1200.1000000000001,Inlet,18.79,"1,000 kg/day"
+"Dec 22-23, 2014",2014,CCSB- Overflow Weir,TSS,89.5,mg/L,1200.1000000000001,Inlet,262.8,"1,000 kg/day"
+"Dec 22-23, 2014",2014,CCSB- Overflow Weir,VSS,9.5,mg/L,1200.1000000000001,Inlet,27.89,"1,000 kg/day"
+"Dec 22-23, 2014",2014,Knights Landing Ridge Cut,Chloride- filtered,15,mg/L,3808,Inlet,139.7,"1,000 kg/day"
+"Dec 22-23, 2014",2014,Knights Landing Ridge Cut,DOC,8.7,mg/L as C,3808,Inlet,81.05,"1,000 kg/day"
+"Dec 22-23, 2014",2014,Knights Landing Ridge Cut,MeHg- filtered,0.105,ng/L,3808,Inlet,0.9782,g/day
+"Dec 22-23, 2014",2014,Knights Landing Ridge Cut,MeHg- particulate,0.105,ng/L,3808,Inlet,0.9782,g/day
+"Dec 22-23, 2014",2014,Knights Landing Ridge Cut,MeHg- total,0.21,ng/L,3808,Inlet,1.956,g/day
+"Dec 22-23, 2014",2014,Knights Landing Ridge Cut,POC,1.2,mg/L as C,3808,Inlet,11.18,"1,000 kg/day"
+"Dec 22-23, 2014",2014,Knights Landing Ridge Cut,THg- filtered,2.6,ng/L,3808,Inlet,24.22,g/day
+"Dec 22-23, 2014",2014,Knights Landing Ridge Cut,THg- particulate,5.5,ng/L,3808,Inlet,51.24,g/day
+"Dec 22-23, 2014",2014,Knights Landing Ridge Cut,THg- total,8.1,ng/L,3808,Inlet,75.46,g/day
+"Dec 22-23, 2014",2014,Knights Landing Ridge Cut,TOC,9.9,mg/L as C,3808,Inlet,92.23,"1,000 kg/day"
+"Dec 22-23, 2014",2014,Knights Landing Ridge Cut,TSS,54,mg/L,3808,Inlet,503.1,"1,000 kg/day"
+"Dec 22-23, 2014",2014,Knights Landing Ridge Cut,VSS,7,mg/L,3808,Inlet,65.22,"1,000 kg/day"
+"Dec 22-23, 2014",2014,Putah Creek at Mace Blvd,Chloride- filtered,18,mg/L,19.9,Inlet,0.8764,"1,000 kg/day"
+"Dec 22-23, 2014",2014,Putah Creek at Mace Blvd,DOC,6.5,mg/L as C,19.9,Inlet,0.3165,"1,000 kg/day"
+"Dec 22-23, 2014",2014,Putah Creek at Mace Blvd,MeHg- filtered,0.097,ng/L,19.9,Inlet,0.004723,g/day
+"Dec 22-23, 2014",2014,Putah Creek at Mace Blvd,MeHg- particulate,0.074,ng/L,19.9,Inlet,0.003603,g/day
+"Dec 22-23, 2014",2014,Putah Creek at Mace Blvd,MeHg- total,0.171,ng/L,19.9,Inlet,0.008325,g/day
+"Dec 22-23, 2014",2014,Putah Creek at Mace Blvd,POC,0.1,mg/L as C,19.9,Inlet,0.004869,"1,000 kg/day"
+"Dec 22-23, 2014",2014,Putah Creek at Mace Blvd,THg- filtered,2.8,ng/L,19.9,Inlet,0.1363,g/day
+"Dec 22-23, 2014",2014,Putah Creek at Mace Blvd,THg- particulate,6.1,ng/L,19.9,Inlet,0.297,g/day
+"Dec 22-23, 2014",2014,Putah Creek at Mace Blvd,THg- total,8.9,ng/L,19.9,Inlet,0.4333,g/day
+"Dec 22-23, 2014",2014,Putah Creek at Mace Blvd,TOC,6.6,mg/L as C,19.9,Inlet,0.3213,"1,000 kg/day"
+"Dec 22-23, 2014",2014,Putah Creek at Mace Blvd,TSS,27,mg/L,19.9,Inlet,1.315,"1,000 kg/day"
+"Dec 22-23, 2014",2014,Putah Creek at Mace Blvd,VSS,4,mg/L,19.9,Inlet,0.1947,"1,000 kg/day"
+"Dec 22-23, 2014",2014,Toe Drain at 1/2 Lisbon,Chloride- filtered,24,mg/L,5028,Outlet,295.2,"1,000 kg/day"
+"Dec 22-23, 2014",2014,Toe Drain at 1/2 Lisbon,DOC,8.6,mg/L as C,5028,Outlet,105.8,"1,000 kg/day"
+"Dec 22-23, 2014",2014,Toe Drain at 1/2 Lisbon,MeHg- filtered,0.277,ng/L,5028,Outlet,3.408,g/day
+"Dec 22-23, 2014",2014,Toe Drain at 1/2 Lisbon,MeHg- particulate,0.258,ng/L,5028,Outlet,3.174,g/day
+"Dec 22-23, 2014",2014,Toe Drain at 1/2 Lisbon,MeHg- total,0.535,ng/L,5028,Outlet,6.581,g/day
+"Dec 22-23, 2014",2014,Toe Drain at 1/2 Lisbon,POC,1.4,mg/L as C,5028,Outlet,17.22,"1,000 kg/day"
+"Dec 22-23, 2014",2014,Toe Drain at 1/2 Lisbon,THg- filtered,3.5,ng/L,5028,Outlet,43.06,g/day
+"Dec 22-23, 2014",2014,Toe Drain at 1/2 Lisbon,THg- particulate,18.3,ng/L,5028,Outlet,225.1,g/day
+"Dec 22-23, 2014",2014,Toe Drain at 1/2 Lisbon,THg- total,21.8,ng/L,5028,Outlet,268.2,g/day
+"Dec 22-23, 2014",2014,Toe Drain at 1/2 Lisbon,TOC,10,mg/L as C,5028,Outlet,123,"1,000 kg/day"
+"Dec 22-23, 2014",2014,Toe Drain at 1/2 Lisbon,TSS,83,mg/L,5028,Outlet,1021,"1,000 kg/day"
+"Dec 22-23, 2014",2014,Toe Drain at 1/2 Lisbon,VSS,10,mg/L,5028,Outlet,123,"1,000 kg/day"
+"Mar 15-16, 2016",2016,CCSB- Overflow Weir,Chloride- filtered,19.5,mg/L,2065.3,Inlet,98.53,"1,000 kg/day"
+"Mar 15-16, 2016",2016,CCSB- Overflow Weir,DOC,5.35,mg/L as C,2065.3,Inlet,27.03,"1,000 kg/day"
+"Mar 15-16, 2016",2016,CCSB- Overflow Weir,Iron- filtered,80.2,ug/L,2065.3,Inlet,405.2,kg/day
+"Mar 15-16, 2016",2016,CCSB- Overflow Weir,Manganese- filtered,4.5,ug/L,2065.3,Inlet,22.74,kg/day
+"Mar 15-16, 2016",2016,CCSB- Overflow Weir,MeHg- filtered,0.089,ng/L,2065.3,Inlet,0.4497,g/day
+"Mar 15-16, 2016",2016,CCSB- Overflow Weir,MeHg- particulate,0.122,ng/L,2065.3,Inlet,0.6165,g/day
+"Mar 15-16, 2016",2016,CCSB- Overflow Weir,MeHg- total,0.211,ng/L,2065.3,Inlet,1.066,g/day
+"Mar 15-16, 2016",2016,CCSB- Overflow Weir,POC,1.35,mg/L as C,2065.3,Inlet,6.821,"1,000 kg/day"
+"Mar 15-16, 2016",2016,CCSB- Overflow Weir,THg- filtered,5.78,ng/L,2065.3,Inlet,29.21,g/day
+"Mar 15-16, 2016",2016,CCSB- Overflow Weir,THg- particulate,33.2,ng/L,2065.3,Inlet,167.8,g/day
+"Mar 15-16, 2016",2016,CCSB- Overflow Weir,THg- total,39,ng/L,2065.3,Inlet,197.1,g/day
+"Mar 15-16, 2016",2016,CCSB- Overflow Weir,TOC,6.7,mg/L as C,2065.3,Inlet,33.85,"1,000 kg/day"
+"Mar 15-16, 2016",2016,CCSB- Overflow Weir,TSS,148,mg/L,2065.3,Inlet,747.8,"1,000 kg/day"
+"Mar 15-16, 2016",2016,CCSB- Overflow Weir,VSS,15.5,mg/L,2065.3,Inlet,78.32,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Fremont Weir,Chloride- filtered,3.67,mg/L,61922.2,Inlet,556,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Fremont Weir,DOC,3.78,mg/L as C,61922.2,Inlet,572.7,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Fremont Weir,Iron- filtered,241,ug/L,61922.2,Inlet,36510,kg/day
+"Mar 15-16, 2016",2016,Fremont Weir,Manganese- filtered,4.98,ug/L,61922.2,Inlet,754.5,kg/day
+"Mar 15-16, 2016",2016,Fremont Weir,MeHg- filtered,0.033,ng/L,61922.2,Inlet,4.999,g/day
+"Mar 15-16, 2016",2016,Fremont Weir,MeHg- particulate,0.076,ng/L,61922.2,Inlet,11.51,g/day
+"Mar 15-16, 2016",2016,Fremont Weir,MeHg- total,0.109,ng/L,61922.2,Inlet,16.51,g/day
+"Mar 15-16, 2016",2016,Fremont Weir,POC,1.4,mg/L as C,61922.2,Inlet,212.1,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Fremont Weir,THg- filtered,2.88,ng/L,61922.2,Inlet,436.3,g/day
+"Mar 15-16, 2016",2016,Fremont Weir,THg- particulate,15.3,ng/L,61922.2,Inlet,2318,g/day
+"Mar 15-16, 2016",2016,Fremont Weir,THg- total,18.2,ng/L,61922.2,Inlet,2757,g/day
+"Mar 15-16, 2016",2016,Fremont Weir,TOC,5.18,mg/L as C,61922.2,Inlet,784.8,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Fremont Weir,TSS,167,mg/L,61922.2,Inlet,25300,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Fremont Weir,VSS,16,mg/L,61922.2,Inlet,2424,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Knights Landing Ridge Cut,Chloride- filtered,17,mg/L,1581,Inlet,65.76,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Knights Landing Ridge Cut,DOC,9.1,mg/L as C,1581,Inlet,35.2,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Knights Landing Ridge Cut,Iron- filtered,168,ug/L,1581,Inlet,649.8,kg/day
+"Mar 15-16, 2016",2016,Knights Landing Ridge Cut,Manganese- filtered,4.8,ug/L,1581,Inlet,18.57,kg/day
+"Mar 15-16, 2016",2016,Knights Landing Ridge Cut,MeHg- filtered,0.067,ng/L,1581,Inlet,0.2592,g/day
+"Mar 15-16, 2016",2016,Knights Landing Ridge Cut,MeHg- particulate,0.061,ng/L,1581,Inlet,0.236,g/day
+"Mar 15-16, 2016",2016,Knights Landing Ridge Cut,MeHg- total,0.128,ng/L,1581,Inlet,0.4951,g/day
+"Mar 15-16, 2016",2016,Knights Landing Ridge Cut,POC,2.8,mg/L as C,1581,Inlet,10.83,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Knights Landing Ridge Cut,THg- filtered,2.6,ng/L,1581,Inlet,10.06,g/day
+"Mar 15-16, 2016",2016,Knights Landing Ridge Cut,THg- particulate,6.3,ng/L,1581,Inlet,24.37,g/day
+"Mar 15-16, 2016",2016,Knights Landing Ridge Cut,THg- total,8.9,ng/L,1581,Inlet,34.43,g/day
+"Mar 15-16, 2016",2016,Knights Landing Ridge Cut,TOC,11.9,mg/L as C,1581,Inlet,46.03,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Knights Landing Ridge Cut,TSS,112,mg/L,1581,Inlet,433.2,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Knights Landing Ridge Cut,VSS,13,mg/L,1581,Inlet,50.28,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Putah Creek at Mace Blvd,Chloride- filtered,9,mg/L,50.9,Inlet,1.121,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Putah Creek at Mace Blvd,DOC,6.3,mg/L as C,50.9,Inlet,0.7845,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Putah Creek at Mace Blvd,Iron- filtered,164,ug/L,50.9,Inlet,20.42,kg/day
+"Mar 15-16, 2016",2016,Putah Creek at Mace Blvd,Manganese- filtered,10.4,ug/L,50.9,Inlet,1.295,kg/day
+"Mar 15-16, 2016",2016,Putah Creek at Mace Blvd,MeHg- filtered,0.102,ng/L,50.9,Inlet,0.0127,g/day
+"Mar 15-16, 2016",2016,Putah Creek at Mace Blvd,MeHg- particulate,0.08,ng/L,50.9,Inlet,0.009963,g/day
+"Mar 15-16, 2016",2016,Putah Creek at Mace Blvd,MeHg- total,0.182,ng/L,50.9,Inlet,0.02266,g/day
+"Mar 15-16, 2016",2016,Putah Creek at Mace Blvd,POC,0,mg/L as C,50.9,Inlet,0,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Putah Creek at Mace Blvd,THg- filtered,3.1,ng/L,50.9,Inlet,0.386,g/day
+"Mar 15-16, 2016",2016,Putah Creek at Mace Blvd,THg- particulate,10.6,ng/L,50.9,Inlet,1.32,g/day
+"Mar 15-16, 2016",2016,Putah Creek at Mace Blvd,THg- total,13.7,ng/L,50.9,Inlet,1.706,g/day
+"Mar 15-16, 2016",2016,Putah Creek at Mace Blvd,TOC,6.3,mg/L as C,50.9,Inlet,0.7845,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Putah Creek at Mace Blvd,TSS,76,mg/L,50.9,Inlet,9.464,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Putah Creek at Mace Blvd,VSS,7,mg/L,50.9,Inlet,0.8717,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Cut below Stairsteps,Chloride- filtered,5,mg/L,17028.3,Outlet,208.3,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Cut below Stairsteps,DOC,4.1,mg/L as C,17028.3,Outlet,170.8,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Cut below Stairsteps,Iron- filtered,110,ug/L,17028.3,Outlet,4583,kg/day
+"Mar 15-16, 2016",2016,Liberty Cut below Stairsteps,Manganese- filtered,16.1,ug/L,17028.3,Outlet,670.7,kg/day
+"Mar 15-16, 2016",2016,Liberty Cut below Stairsteps,MeHg- filtered,0.144,ng/L,17028.3,Outlet,5.999,g/day
+"Mar 15-16, 2016",2016,Liberty Cut below Stairsteps,MeHg- particulate,0.121,ng/L,17028.3,Outlet,5.041,g/day
+"Mar 15-16, 2016",2016,Liberty Cut below Stairsteps,MeHg- total,0.265,ng/L,17028.3,Outlet,11.04,g/day
+"Mar 15-16, 2016",2016,Liberty Cut below Stairsteps,POC,0.8,mg/L as C,17028.3,Outlet,33.33,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Cut below Stairsteps,THg- filtered,3.7,ng/L,17028.3,Outlet,154.1,g/day
+"Mar 15-16, 2016",2016,Liberty Cut below Stairsteps,THg- particulate,11.4,ng/L,17028.3,Outlet,474.9,g/day
+"Mar 15-16, 2016",2016,Liberty Cut below Stairsteps,THg- total,15.1,ng/L,17028.3,Outlet,629.1,g/day
+"Mar 15-16, 2016",2016,Liberty Cut below Stairsteps,TOC,4.9,mg/L as C,17028.3,Outlet,204.1,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Cut below Stairsteps,TSS,69,mg/L,17028.3,Outlet,2875,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Cut below Stairsteps,VSS,8,mg/L,17028.3,Outlet,333.3,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Island Breach 1,Chloride- filtered,18,mg/L,3065.2,Outlet,135,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Island Breach 1,DOC,7.2,mg/L as C,3065.2,Outlet,53.99,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Island Breach 1,Iron- filtered,124,ug/L,3065.2,Outlet,929.9,kg/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 1,Manganese- filtered,35.6,ug/L,3065.2,Outlet,267,kg/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 1,MeHg- filtered,0.284,ng/L,3065.2,Outlet,2.13,g/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 1,MeHg- particulate,0.23,ng/L,3065.2,Outlet,1.725,g/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 1,MeHg- total,0.514,ng/L,3065.2,Outlet,3.855,g/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 1,POC,1.1,mg/L as C,3065.2,Outlet,8.249,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Island Breach 1,THg- filtered,4.3,ng/L,3065.2,Outlet,32.25,g/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 1,THg- particulate,15.2,ng/L,3065.2,Outlet,114,g/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 1,THg- total,19.5,ng/L,3065.2,Outlet,146.2,g/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 1,TOC,8.3,mg/L as C,3065.2,Outlet,62.24,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Island Breach 1,TSS,67.5,mg/L,3065.2,Outlet,506.2,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Island Breach 1,VSS,9,mg/L,3065.2,Outlet,67.49,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Island Breach 2,Chloride- filtered,5,mg/L,10732.5,Outlet,131.3,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Island Breach 2,DOC,4.1,mg/L as C,10732.5,Outlet,107.7,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Island Breach 2,Iron- filtered,110,ug/L,10732.5,Outlet,2888,kg/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 2,Manganese- filtered,16.1,ug/L,10732.5,Outlet,422.8,kg/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 2,MeHg- filtered,0.144,ng/L,10732.5,Outlet,3.781,g/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 2,MeHg- particulate,0.121,ng/L,10732.5,Outlet,3.177,g/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 2,MeHg- total,0.265,ng/L,10732.5,Outlet,6.958,g/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 2,POC,0.8,mg/L as C,10732.5,Outlet,21.01,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Island Breach 2,THg- filtered,3.7,ng/L,10732.5,Outlet,97.15,g/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 2,THg- particulate,11.4,ng/L,10732.5,Outlet,299.3,g/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 2,THg- total,15.1,ng/L,10732.5,Outlet,396.5,g/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 2,TOC,4.9,mg/L as C,10732.5,Outlet,128.7,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Island Breach 2,TSS,69,mg/L,10732.5,Outlet,1812,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Island Breach 2,VSS,8,mg/L,10732.5,Outlet,210.1,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Island Breach 3,Chloride- filtered,4,mg/L,4632.3,Outlet,45.33,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Island Breach 3,DOC,4.2,mg/L as C,4632.3,Outlet,47.6,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Island Breach 3,Iron- filtered,133,ug/L,4632.3,Outlet,1507,kg/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 3,Manganese- filtered,18.9,ug/L,4632.3,Outlet,214.2,kg/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 3,MeHg- filtered,0.097,ng/L,4632.3,Outlet,1.099,g/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 3,MeHg- particulate,0.081,ng/L,4632.3,Outlet,0.918,g/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 3,MeHg- total,0.178,ng/L,4632.3,Outlet,2.017,g/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 3,POC,0.6,mg/L as C,4632.3,Outlet,6.8,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Island Breach 3,THg- filtered,2.8,ng/L,4632.3,Outlet,31.73,g/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 3,THg- particulate,9.4,ng/L,4632.3,Outlet,106.5,g/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 3,THg- total,12.2,ng/L,4632.3,Outlet,138.3,g/day
+"Mar 15-16, 2016",2016,Liberty Island Breach 3,TOC,4.8,mg/L as C,4632.3,Outlet,54.4,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Island Breach 3,TSS,55,mg/L,4632.3,Outlet,623.3,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Liberty Island Breach 3,VSS,6,mg/L,4632.3,Outlet,68,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Shag Slough below Stairsteps,Chloride- filtered,18,mg/L,12168.5,Outlet,535.9,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Shag Slough below Stairsteps,DOC,7.2,mg/L as C,12168.5,Outlet,214.4,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Shag Slough below Stairsteps,Iron- filtered,124,ug/L,12168.5,Outlet,3692,kg/day
+"Mar 15-16, 2016",2016,Shag Slough below Stairsteps,Manganese- filtered,35.6,ug/L,12168.5,Outlet,1060,kg/day
+"Mar 15-16, 2016",2016,Shag Slough below Stairsteps,MeHg- filtered,0.284,ng/L,12168.5,Outlet,8.455,g/day
+"Mar 15-16, 2016",2016,Shag Slough below Stairsteps,MeHg- particulate,0.23,ng/L,12168.5,Outlet,6.847,g/day
+"Mar 15-16, 2016",2016,Shag Slough below Stairsteps,MeHg- total,0.514,ng/L,12168.5,Outlet,15.3,g/day
+"Mar 15-16, 2016",2016,Shag Slough below Stairsteps,POC,1.1,mg/L as C,12168.5,Outlet,32.75,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Shag Slough below Stairsteps,THg- filtered,4.3,ng/L,12168.5,Outlet,128,g/day
+"Mar 15-16, 2016",2016,Shag Slough below Stairsteps,THg- particulate,15.2,ng/L,12168.5,Outlet,452.5,g/day
+"Mar 15-16, 2016",2016,Shag Slough below Stairsteps,THg- total,19.5,ng/L,12168.5,Outlet,580.5,g/day
+"Mar 15-16, 2016",2016,Shag Slough below Stairsteps,TOC,8.3,mg/L as C,12168.5,Outlet,247.1,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Shag Slough below Stairsteps,TSS,67.5,mg/L,12168.5,Outlet,2010,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Shag Slough below Stairsteps,VSS,9,mg/L,12168.5,Outlet,267.9,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Toe Drain at 1/2 Lisbon,Chloride- filtered,4,mg/L,17992.5,Outlet,176.1,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Toe Drain at 1/2 Lisbon,DOC,4.2,mg/L as C,17992.5,Outlet,184.9,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Toe Drain at 1/2 Lisbon,Iron- filtered,133,ug/L,17992.5,Outlet,5855,kg/day
+"Mar 15-16, 2016",2016,Toe Drain at 1/2 Lisbon,Manganese- filtered,18.9,ug/L,17992.5,Outlet,832,kg/day
+"Mar 15-16, 2016",2016,Toe Drain at 1/2 Lisbon,MeHg- filtered,0.097,ng/L,17992.5,Outlet,4.27,g/day
+"Mar 15-16, 2016",2016,Toe Drain at 1/2 Lisbon,MeHg- particulate,0.081,ng/L,17992.5,Outlet,3.566,g/day
+"Mar 15-16, 2016",2016,Toe Drain at 1/2 Lisbon,MeHg- total,0.178,ng/L,17992.5,Outlet,7.836,g/day
+"Mar 15-16, 2016",2016,Toe Drain at 1/2 Lisbon,POC,0.6,mg/L as C,17992.5,Outlet,26.41,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Toe Drain at 1/2 Lisbon,THg- filtered,2.8,ng/L,17992.5,Outlet,123.3,g/day
+"Mar 15-16, 2016",2016,Toe Drain at 1/2 Lisbon,THg- particulate,9.4,ng/L,17992.5,Outlet,413.8,g/day
+"Mar 15-16, 2016",2016,Toe Drain at 1/2 Lisbon,THg- total,12.2,ng/L,17992.5,Outlet,537,g/day
+"Mar 15-16, 2016",2016,Toe Drain at 1/2 Lisbon,TOC,4.8,mg/L as C,17992.5,Outlet,211.3,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Toe Drain at 1/2 Lisbon,TSS,55,mg/L,17992.5,Outlet,2421,"1,000 kg/day"
+"Mar 15-16, 2016",2016,Toe Drain at 1/2 Lisbon,VSS,6,mg/L,17992.5,Outlet,264.1,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Below Liberty Island,Chloride- filtered,,,,Below Liberty,1676,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Below Liberty Island,DOC,,,,Below Liberty,1524,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Below Liberty Island,MeHg- filtered,,,,Below Liberty,32.29,g/day
+"Jan 11-12, 2017",2017,Below Liberty Island,MeHg- particulate,,,,Below Liberty,77.23,g/day
+"Jan 11-12, 2017",2017,Below Liberty Island,MeHg- total,,,,Below Liberty,109.5,g/day
+"Jan 11-12, 2017",2017,Below Liberty Island,POC,,,,Below Liberty,827.4,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Below Liberty Island,THg- filtered,,,,Below Liberty,1623,g/day
+"Jan 11-12, 2017",2017,Below Liberty Island,THg- particulate,,,,Below Liberty,12940,g/day
+"Jan 11-12, 2017",2017,Below Liberty Island,THg- total,,,,Below Liberty,14560,g/day
+"Jan 11-12, 2017",2017,Below Liberty Island,TOC,,,,Below Liberty,2351,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Below Liberty Island,TSS,,,,Below Liberty,76580,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Below Liberty Island,VSS,,,,Below Liberty,8756,"1,000 kg/day"
+"Jan 11-12, 2017",2017,CCSB- Overflow Weir,Chloride- filtered,17,mg/L,10897.5,Inlet,453.2,"1,000 kg/day"
+"Jan 11-12, 2017",2017,CCSB- Overflow Weir,DOC,5.05,mg/L as C,10897.5,Inlet,134.6,"1,000 kg/day"
+"Jan 11-12, 2017",2017,CCSB- Overflow Weir,Iron- filtered,148,ug/L,10897.5,Inlet,3946,kg/day
+"Jan 11-12, 2017",2017,CCSB- Overflow Weir,Manganese- filtered,3.16,ug/L,10897.5,Inlet,84.25,kg/day
+"Jan 11-12, 2017",2017,CCSB- Overflow Weir,MeHg- filtered,0.0815,ng/L,10897.5,Inlet,2.173,g/day
+"Jan 11-12, 2017",2017,CCSB- Overflow Weir,MeHg- particulate,0.135,ng/L,10897.5,Inlet,3.599,g/day
+"Jan 11-12, 2017",2017,CCSB- Overflow Weir,MeHg- total,0.217,ng/L,10897.5,Inlet,5.786,g/day
+"Jan 11-12, 2017",2017,CCSB- Overflow Weir,POC,1.95,mg/L as C,10897.5,Inlet,51.99,"1,000 kg/day"
+"Jan 11-12, 2017",2017,CCSB- Overflow Weir,THg- filtered,9.3,ng/L,10897.5,Inlet,248,g/day
+"Jan 11-12, 2017",2017,CCSB- Overflow Weir,THg- particulate,128,ng/L,10897.5,Inlet,3413,g/day
+"Jan 11-12, 2017",2017,CCSB- Overflow Weir,THg- total,138,ng/L,10897.5,Inlet,3679,g/day
+"Jan 11-12, 2017",2017,CCSB- Overflow Weir,TOC,7,mg/L as C,10897.5,Inlet,186.6,"1,000 kg/day"
+"Jan 11-12, 2017",2017,CCSB- Overflow Weir,TSS,556,mg/L,10897.5,Inlet,14820,"1,000 kg/day"
+"Jan 11-12, 2017",2017,CCSB- Overflow Weir,VSS,50,mg/L,10897.5,Inlet,1333,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Fremont Weir,Chloride- filtered,2.33,mg/L,124511.8,Inlet,709.8,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Fremont Weir,DOC,3.3,mg/L as C,124511.8,Inlet,1005,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Fremont Weir,Iron- filtered,375,ug/L,124511.8,Inlet,114200,kg/day
+"Jan 11-12, 2017",2017,Fremont Weir,Manganese- filtered,9.66,ug/L,124511.8,Inlet,2943,kg/day
+"Jan 11-12, 2017",2017,Fremont Weir,MeHg- filtered,0.0437,ng/L,124511.8,Inlet,13.31,g/day
+"Jan 11-12, 2017",2017,Fremont Weir,MeHg- particulate,0.102,ng/L,124511.8,Inlet,31.07,g/day
+"Jan 11-12, 2017",2017,Fremont Weir,MeHg- total,0.146,ng/L,124511.8,Inlet,44.48,g/day
+"Jan 11-12, 2017",2017,Fremont Weir,POC,1.57,mg/L as C,124511.8,Inlet,478.3,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Fremont Weir,THg- filtered,3.45,ng/L,124511.8,Inlet,1051,g/day
+"Jan 11-12, 2017",2017,Fremont Weir,THg- particulate,20.7,ng/L,124511.8,Inlet,6306,g/day
+"Jan 11-12, 2017",2017,Fremont Weir,THg- total,24.1,ng/L,124511.8,Inlet,7342,g/day
+"Jan 11-12, 2017",2017,Fremont Weir,TOC,4.87,mg/L as C,124511.8,Inlet,1484,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Fremont Weir,TSS,172,mg/L,124511.8,Inlet,52400,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Fremont Weir,VSS,16.7,mg/L,124511.8,Inlet,5087,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Knights Landing Ridge Cut,Chloride- filtered,14,mg/L,1865.4,Inlet,63.89,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Knights Landing Ridge Cut,DOC,6.9,mg/L as C,1865.4,Inlet,31.49,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Knights Landing Ridge Cut,Iron- filtered,170,ug/L,1865.4,Inlet,775.9,kg/day
+"Jan 11-12, 2017",2017,Knights Landing Ridge Cut,Manganese- filtered,2.57,ug/L,1865.4,Inlet,11.73,kg/day
+"Jan 11-12, 2017",2017,Knights Landing Ridge Cut,MeHg- filtered,0.054,ng/L,1865.4,Inlet,0.2464,g/day
+"Jan 11-12, 2017",2017,Knights Landing Ridge Cut,MeHg- particulate,0.07,ng/L,1865.4,Inlet,0.3195,g/day
+"Jan 11-12, 2017",2017,Knights Landing Ridge Cut,MeHg- total,0.124,ng/L,1865.4,Inlet,0.5659,g/day
+"Jan 11-12, 2017",2017,Knights Landing Ridge Cut,POC,4.8,mg/L as C,1865.4,Inlet,21.91,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Knights Landing Ridge Cut,THg- filtered,2.7,ng/L,1865.4,Inlet,12.32,g/day
+"Jan 11-12, 2017",2017,Knights Landing Ridge Cut,THg- particulate,26.9,ng/L,1865.4,Inlet,122.8,g/day
+"Jan 11-12, 2017",2017,Knights Landing Ridge Cut,THg- total,29.6,ng/L,1865.4,Inlet,135.1,g/day
+"Jan 11-12, 2017",2017,Knights Landing Ridge Cut,TOC,11.7,mg/L as C,1865.4,Inlet,53.4,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Knights Landing Ridge Cut,TSS,407,mg/L,1865.4,Inlet,1857,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Knights Landing Ridge Cut,VSS,37,mg/L,1865.4,Inlet,168.9,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Putah Creek at Mace Blvd,Chloride- filtered,3,mg/L,723,Inlet,5.307,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Putah Creek at Mace Blvd,DOC,5.7,mg/L as C,723,Inlet,10.08,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Putah Creek at Mace Blvd,Iron- filtered,688,ug/L,723,Inlet,1217,kg/day
+"Jan 11-12, 2017",2017,Putah Creek at Mace Blvd,Manganese- filtered,4.87,ug/L,723,Inlet,8.614,kg/day
+"Jan 11-12, 2017",2017,Putah Creek at Mace Blvd,MeHg- filtered,0.042,ng/L,723,Inlet,0.07429,g/day
+"Jan 11-12, 2017",2017,Putah Creek at Mace Blvd,MeHg- particulate,0.274,ng/L,723,Inlet,0.4847,g/day
+"Jan 11-12, 2017",2017,Putah Creek at Mace Blvd,MeHg- total,0.316,ng/L,723,Inlet,0.559,g/day
+"Jan 11-12, 2017",2017,Putah Creek at Mace Blvd,POC,1.5,mg/L as C,723,Inlet,2.653,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Putah Creek at Mace Blvd,THg- filtered,5.3,ng/L,723,Inlet,9.375,g/day
+"Jan 11-12, 2017",2017,Putah Creek at Mace Blvd,THg- particulate,111,ng/L,723,Inlet,196.3,g/day
+"Jan 11-12, 2017",2017,Putah Creek at Mace Blvd,THg- total,116,ng/L,723,Inlet,205.2,g/day
+"Jan 11-12, 2017",2017,Putah Creek at Mace Blvd,TOC,7.2,mg/L as C,723,Inlet,12.74,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Putah Creek at Mace Blvd,TSS,1080,mg/L,723,Inlet,1910,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Putah Creek at Mace Blvd,VSS,100,mg/L,723,Inlet,176.9,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Sac River above the Sacramento Weir,Chloride- filtered,2,mg/L,33200,Inlet,162.5,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Sac River above the Sacramento Weir,DOC,3.1,mg/L as C,33200,Inlet,251.8,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Sac River above the Sacramento Weir,Iron- filtered,270,ug/L,33200,Inlet,21930,kg/day
+"Jan 11-12, 2017",2017,Sac River above the Sacramento Weir,Manganese- filtered,16.5,ug/L,33200,Inlet,1340,kg/day
+"Jan 11-12, 2017",2017,Sac River above the Sacramento Weir,MeHg- filtered,0.042,ng/L,33200,Inlet,3.412,g/day
+"Jan 11-12, 2017",2017,Sac River above the Sacramento Weir,MeHg- particulate,0.117,ng/L,33200,Inlet,9.504,g/day
+"Jan 11-12, 2017",2017,Sac River above the Sacramento Weir,MeHg- total,0.159,ng/L,33200,Inlet,12.92,g/day
+"Jan 11-12, 2017",2017,Sac River above the Sacramento Weir,POC,1,mg/L as C,33200,Inlet,81.23,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Sac River above the Sacramento Weir,THg- filtered,3.9,ng/L,33200,Inlet,316.8,g/day
+"Jan 11-12, 2017",2017,Sac River above the Sacramento Weir,THg- particulate,30.3,ng/L,33200,Inlet,2461,g/day
+"Jan 11-12, 2017",2017,Sac River above the Sacramento Weir,THg- total,34.2,ng/L,33200,Inlet,2778,g/day
+"Jan 11-12, 2017",2017,Sac River above the Sacramento Weir,TOC,4.1,mg/L as C,33200,Inlet,333,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Sac River above the Sacramento Weir,TSS,115,mg/L,33200,Inlet,9341,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Sac River above the Sacramento Weir,VSS,10,mg/L,33200,Inlet,812.3,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Liberty Cut below Stairsteps,Chloride- filtered,3,mg/L,10691.2,Outlet,78.47,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Liberty Cut below Stairsteps,DOC,3.1,mg/L as C,10691.2,Outlet,81.09,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Liberty Cut below Stairsteps,Iron- filtered,340,ug/L,10691.2,Outlet,8893,kg/day
+"Jan 11-12, 2017",2017,Liberty Cut below Stairsteps,Manganese- filtered,5.79,ug/L,10691.2,Outlet,151.4,kg/day
+"Jan 11-12, 2017",2017,Liberty Cut below Stairsteps,MeHg- filtered,0.069,ng/L,10691.2,Outlet,1.805,g/day
+"Jan 11-12, 2017",2017,Liberty Cut below Stairsteps,MeHg- particulate,0.139,ng/L,10691.2,Outlet,3.636,g/day
+"Jan 11-12, 2017",2017,Liberty Cut below Stairsteps,MeHg- total,0.208,ng/L,10691.2,Outlet,5.441,g/day
+"Jan 11-12, 2017",2017,Liberty Cut below Stairsteps,POC,0.9,mg/L as C,10691.2,Outlet,23.54,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Liberty Cut below Stairsteps,THg- filtered,2.6,ng/L,10691.2,Outlet,68.01,g/day
+"Jan 11-12, 2017",2017,Liberty Cut below Stairsteps,THg- particulate,23.9,ng/L,10691.2,Outlet,625.2,g/day
+"Jan 11-12, 2017",2017,Liberty Cut below Stairsteps,THg- total,26.5,ng/L,10691.2,Outlet,693.2,g/day
+"Jan 11-12, 2017",2017,Liberty Cut below Stairsteps,TOC,4,mg/L as C,10691.2,Outlet,104.6,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Liberty Cut below Stairsteps,TSS,98,mg/L,10691.2,Outlet,2563,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Liberty Cut below Stairsteps,VSS,13,mg/L,10691.2,Outlet,340,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Little Holland,Chloride- filtered,2.5,mg/L,59434.7,Outlet,363.5,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Little Holland,DOC,3.25,mg/L as C,59434.7,Outlet,472.6,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Little Holland,Iron- filtered,370,ug/L,59434.7,Outlet,53800,kg/day
+"Jan 11-12, 2017",2017,Little Holland,Manganese- filtered,8.85,ug/L,59434.7,Outlet,1287,kg/day
+"Jan 11-12, 2017",2017,Little Holland,MeHg- filtered,0.0605,ng/L,59434.7,Outlet,8.797,g/day
+"Jan 11-12, 2017",2017,Little Holland,MeHg- particulate,0.111,ng/L,59434.7,Outlet,16.14,g/day
+"Jan 11-12, 2017",2017,Little Holland,MeHg- total,0.171,ng/L,59434.7,Outlet,24.87,g/day
+"Jan 11-12, 2017",2017,Little Holland,POC,0.8,mg/L as C,59434.7,Outlet,116.3,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Little Holland,THg- filtered,3.7,ng/L,59434.7,Outlet,538,g/day
+"Jan 11-12, 2017",2017,Little Holland,THg- particulate,24.8,ng/L,59434.7,Outlet,3606,g/day
+"Jan 11-12, 2017",2017,Little Holland,THg- total,28.6,ng/L,59434.7,Outlet,4159,g/day
+"Jan 11-12, 2017",2017,Little Holland,TOC,4.05,mg/L as C,59434.7,Outlet,588.9,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Little Holland,TSS,83.5,mg/L,59434.7,Outlet,12140,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Little Holland,VSS,10.5,mg/L,59434.7,Outlet,1527,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Main Liberty,Chloride- filtered,4.5,mg/L,59247.5,Outlet,652.3,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Main Liberty,DOC,3.55,mg/L as C,59247.5,Outlet,514.6,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Main Liberty,Iron- filtered,363,ug/L,59247.5,Outlet,52620,kg/day
+"Jan 11-12, 2017",2017,Main Liberty,Manganese- filtered,8.1,ug/L,59247.5,Outlet,1174,kg/day
+"Jan 11-12, 2017",2017,Main Liberty,MeHg- filtered,0.0775,ng/L,59247.5,Outlet,11.23,g/day
+"Jan 11-12, 2017",2017,Main Liberty,MeHg- particulate,0.139,ng/L,59247.5,Outlet,20.15,g/day
+"Jan 11-12, 2017",2017,Main Liberty,MeHg- total,0.216,ng/L,59247.5,Outlet,31.31,g/day
+"Jan 11-12, 2017",2017,Main Liberty,POC,1.6,mg/L as C,59247.5,Outlet,231.9,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Main Liberty,THg- filtered,2.75,ng/L,59247.5,Outlet,398.6,g/day
+"Jan 11-12, 2017",2017,Main Liberty,THg- particulate,28,ng/L,59247.5,Outlet,4059,g/day
+"Jan 11-12, 2017",2017,Main Liberty,THg- total,30.7,ng/L,59247.5,Outlet,4450,g/day
+"Jan 11-12, 2017",2017,Main Liberty,TOC,5.15,mg/L as C,59247.5,Outlet,746.5,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Main Liberty,TSS,134,mg/L,59247.5,Outlet,19420,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Main Liberty,VSS,14.5,mg/L,59247.5,Outlet,2102,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Shag Slough below Stairsteps,Chloride- filtered,6,mg/L,30284.1,Outlet,444.6,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Shag Slough below Stairsteps,DOC,4,mg/L as C,30284.1,Outlet,296.4,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Shag Slough below Stairsteps,Iron- filtered,386,ug/L,30284.1,Outlet,28600,kg/day
+"Jan 11-12, 2017",2017,Shag Slough below Stairsteps,Manganese- filtered,10.4,ug/L,30284.1,Outlet,770.6,kg/day
+"Jan 11-12, 2017",2017,Shag Slough below Stairsteps,MeHg- filtered,0.086,ng/L,30284.1,Outlet,6.372,g/day
+"Jan 11-12, 2017",2017,Shag Slough below Stairsteps,MeHg- particulate,0.139,ng/L,30284.1,Outlet,10.3,g/day
+"Jan 11-12, 2017",2017,Shag Slough below Stairsteps,MeHg- total,0.225,ng/L,30284.1,Outlet,16.67,g/day
+"Jan 11-12, 2017",2017,Shag Slough below Stairsteps,POC,2.3,mg/L as C,30284.1,Outlet,170.4,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Shag Slough below Stairsteps,THg- filtered,2.9,ng/L,30284.1,Outlet,214.9,g/day
+"Jan 11-12, 2017",2017,Shag Slough below Stairsteps,THg- particulate,32,ng/L,30284.1,Outlet,2371,g/day
+"Jan 11-12, 2017",2017,Shag Slough below Stairsteps,THg- total,34.9,ng/L,30284.1,Outlet,2586,g/day
+"Jan 11-12, 2017",2017,Shag Slough below Stairsteps,TOC,6.3,mg/L as C,30284.1,Outlet,466.8,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Shag Slough below Stairsteps,TSS,170,mg/L,30284.1,Outlet,12600,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Shag Slough below Stairsteps,VSS,16,mg/L,30284.1,Outlet,1185,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,Chloride- filtered,2,mg/L,11540.3,Outlet,56.47,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,DOC,3.4,mg/L as C,11540.3,Outlet,96,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,Iron- filtered,399,ug/L,11540.3,Outlet,11270,kg/day
+"Jan 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,Manganese- filtered,11.9,ug/L,11540.3,Outlet,336,kg/day
+"Jan 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- filtered,0.052,ng/L,11540.3,Outlet,1.468,g/day
+"Jan 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- particulate,0.082,ng/L,11540.3,Outlet,2.315,g/day
+"Jan 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- total,0.134,ng/L,11540.3,Outlet,3.783,g/day
+"Jan 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,POC,0.7,mg/L as C,11540.3,Outlet,19.76,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,THg- filtered,4.8,ng/L,11540.3,Outlet,135.5,g/day
+"Jan 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,THg- particulate,25.8,ng/L,11540.3,Outlet,728.4,g/day
+"Jan 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,THg- total,30.6,ng/L,11540.3,Outlet,864,g/day
+"Jan 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,TOC,4.1,mg/L as C,11540.3,Outlet,115.8,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,TSS,69,mg/L,11540.3,Outlet,1948,"1,000 kg/day"
+"Jan 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,VSS,8,mg/L,11540.3,Outlet,225.9,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Below Liberty Island,Chloride- filtered,,,,Below Liberty,1356,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Below Liberty Island,DOC,,,,Below Liberty,665,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Below Liberty Island,Iron- filtered,,,,Below Liberty,39280,kg/day
+"Jan 24-25, 2017",2017,Below Liberty Island,Manganese- filtered,,,,Below Liberty,1416,kg/day
+"Jan 24-25, 2017",2017,Below Liberty Island,MeHg- filtered,,,,Below Liberty,25.12,g/day
+"Jan 24-25, 2017",2017,Below Liberty Island,MeHg- particulate,,,,Below Liberty,4.872,g/day
+"Jan 24-25, 2017",2017,Below Liberty Island,MeHg- total,,,,Below Liberty,29.99,g/day
+"Jan 24-25, 2017",2017,Below Liberty Island,POC,,,,Below Liberty,219.9,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Below Liberty Island,THg- filtered,,,,Below Liberty,456,g/day
+"Jan 24-25, 2017",2017,Below Liberty Island,THg- particulate,,,,Below Liberty,2537,g/day
+"Jan 24-25, 2017",2017,Below Liberty Island,THg- total,,,,Below Liberty,2992,g/day
+"Jan 24-25, 2017",2017,Below Liberty Island,TOC,,,,Below Liberty,884.7,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Below Liberty Island,TSS,,,,Below Liberty,19610,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Below Liberty Island,VSS,,,,Below Liberty,2794,"1,000 kg/day"
+"Jan 24-25, 2017",2017,CCSB- Overflow Weir,Chloride- filtered,14.5,mg/L,6368.0999999999995,Inlet,225.9,"1,000 kg/day"
+"Jan 24-25, 2017",2017,CCSB- Overflow Weir,DOC,3.9,mg/L as C,6368.0999999999995,Inlet,60.76,"1,000 kg/day"
+"Jan 24-25, 2017",2017,CCSB- Overflow Weir,Iron- filtered,1250,ug/L,6368.0999999999995,Inlet,19480,kg/day
+"Jan 24-25, 2017",2017,CCSB- Overflow Weir,Manganese- filtered,27.3,ug/L,6368.0999999999995,Inlet,425.3,kg/day
+"Jan 24-25, 2017",2017,CCSB- Overflow Weir,MeHg- filtered,0.0585,ng/L,6368.0999999999995,Inlet,0.9114,g/day
+"Jan 24-25, 2017",2017,CCSB- Overflow Weir,MeHg- particulate,0.11,ng/L,6368.0999999999995,Inlet,1.714,g/day
+"Jan 24-25, 2017",2017,CCSB- Overflow Weir,MeHg- total,0.168,ng/L,6368.0999999999995,Inlet,2.617,g/day
+"Jan 24-25, 2017",2017,CCSB- Overflow Weir,POC,0.85,mg/L as C,6368.0999999999995,Inlet,13.24,"1,000 kg/day"
+"Jan 24-25, 2017",2017,CCSB- Overflow Weir,THg- filtered,2.45,ng/L,6368.0999999999995,Inlet,38.17,g/day
+"Jan 24-25, 2017",2017,CCSB- Overflow Weir,THg- particulate,52.1,ng/L,6368.0999999999995,Inlet,811.7,g/day
+"Jan 24-25, 2017",2017,CCSB- Overflow Weir,THg- total,54.6,ng/L,6368.0999999999995,Inlet,850.7,g/day
+"Jan 24-25, 2017",2017,CCSB- Overflow Weir,TOC,4.75,mg/L as C,6368.0999999999995,Inlet,74.01,"1,000 kg/day"
+"Jan 24-25, 2017",2017,CCSB- Overflow Weir,TSS,234,mg/L,6368.0999999999995,Inlet,3646,"1,000 kg/day"
+"Jan 24-25, 2017",2017,CCSB- Overflow Weir,VSS,20,mg/L,6368.0999999999995,Inlet,311.6,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Fremont Weir,Chloride- filtered,3.33,mg/L,73673.6,Inlet,600.2,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Fremont Weir,DOC,2.5,mg/L as C,73673.6,Inlet,450.6,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Fremont Weir,Iron- filtered,206,ug/L,73673.6,Inlet,37130,kg/day
+"Jan 24-25, 2017",2017,Fremont Weir,Manganese- filtered,6.34,ug/L,73673.6,Inlet,1143,kg/day
+"Jan 24-25, 2017",2017,Fremont Weir,MeHg- filtered,0.037,ng/L,73673.6,Inlet,6.669,g/day
+"Jan 24-25, 2017",2017,Fremont Weir,MeHg- particulate,0.0608,ng/L,73673.6,Inlet,10.96,g/day
+"Jan 24-25, 2017",2017,Fremont Weir,MeHg- total,0.0978,ng/L,73673.6,Inlet,17.63,g/day
+"Jan 24-25, 2017",2017,Fremont Weir,POC,0.883,mg/L as C,73673.6,Inlet,159.2,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Fremont Weir,THg- filtered,2.45,ng/L,73673.6,Inlet,441.6,g/day
+"Jan 24-25, 2017",2017,Fremont Weir,THg- particulate,11.1,ng/L,73673.6,Inlet,2001,g/day
+"Jan 24-25, 2017",2017,Fremont Weir,THg- total,13.6,ng/L,73673.6,Inlet,2451,g/day
+"Jan 24-25, 2017",2017,Fremont Weir,TOC,3.38,mg/L as C,73673.6,Inlet,609.2,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Fremont Weir,TSS,134,mg/L,73673.6,Inlet,24150,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Fremont Weir,VSS,12,mg/L,73673.6,Inlet,2163,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Knights Landing Ridge Cut,Chloride- filtered,14,mg/L,5098.2,Inlet,174.6,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Knights Landing Ridge Cut,DOC,6.5,mg/L as C,5098.2,Inlet,81.08,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Knights Landing Ridge Cut,Iron- filtered,456,ug/L,5098.2,Inlet,5688,kg/day
+"Jan 24-25, 2017",2017,Knights Landing Ridge Cut,Manganese- filtered,9.69,ug/L,5098.2,Inlet,120.9,kg/day
+"Jan 24-25, 2017",2017,Knights Landing Ridge Cut,MeHg- filtered,0.102,ng/L,5098.2,Inlet,1.272,g/day
+"Jan 24-25, 2017",2017,Knights Landing Ridge Cut,MeHg- particulate,0.086,ng/L,5098.2,Inlet,1.073,g/day
+"Jan 24-25, 2017",2017,Knights Landing Ridge Cut,MeHg- total,0.188,ng/L,5098.2,Inlet,2.345,g/day
+"Jan 24-25, 2017",2017,Knights Landing Ridge Cut,POC,3,mg/L as C,5098.2,Inlet,37.42,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Knights Landing Ridge Cut,THg- filtered,2.3,ng/L,5098.2,Inlet,28.69,g/day
+"Jan 24-25, 2017",2017,Knights Landing Ridge Cut,THg- particulate,12.3,ng/L,5098.2,Inlet,153.4,g/day
+"Jan 24-25, 2017",2017,Knights Landing Ridge Cut,THg- total,14.6,ng/L,5098.2,Inlet,182.1,g/day
+"Jan 24-25, 2017",2017,Knights Landing Ridge Cut,TOC,9.5,mg/L as C,5098.2,Inlet,118.5,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Knights Landing Ridge Cut,TSS,184,mg/L,5098.2,Inlet,2295,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Knights Landing Ridge Cut,VSS,22,mg/L,5098.2,Inlet,274.4,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Putah Creek at Mace Blvd,Chloride- filtered,12,mg/L,85,Inlet,2.496,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Putah Creek at Mace Blvd,DOC,3.9,mg/L as C,85,Inlet,0.811,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Putah Creek at Mace Blvd,Iron- filtered,76,ug/L,85,Inlet,15.8,kg/day
+"Jan 24-25, 2017",2017,Putah Creek at Mace Blvd,Manganese- filtered,6.66,ug/L,85,Inlet,1.385,kg/day
+"Jan 24-25, 2017",2017,Putah Creek at Mace Blvd,MeHg- filtered,0.044,ng/L,85,Inlet,0.00915,g/day
+"Jan 24-25, 2017",2017,Putah Creek at Mace Blvd,MeHg- particulate,0.061,ng/L,85,Inlet,0.01269,g/day
+"Jan 24-25, 2017",2017,Putah Creek at Mace Blvd,MeHg- total,0.105,ng/L,85,Inlet,0.02184,g/day
+"Jan 24-25, 2017",2017,Putah Creek at Mace Blvd,POC,0.6,mg/L as C,85,Inlet,0.1248,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Putah Creek at Mace Blvd,THg- filtered,2.4,ng/L,85,Inlet,0.4991,g/day
+"Jan 24-25, 2017",2017,Putah Creek at Mace Blvd,THg- particulate,11.6,ng/L,85,Inlet,2.412,g/day
+"Jan 24-25, 2017",2017,Putah Creek at Mace Blvd,THg- total,14,ng/L,85,Inlet,2.911,g/day
+"Jan 24-25, 2017",2017,Putah Creek at Mace Blvd,TOC,4.5,mg/L as C,85,Inlet,0.9358,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Putah Creek at Mace Blvd,TSS,108,mg/L,85,Inlet,22.46,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Putah Creek at Mace Blvd,VSS,16,mg/L,85,Inlet,3.327,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Sac River above the Sacramento Weir,Chloride- filtered,3,mg/L,3540,Inlet,25.98,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Sac River above the Sacramento Weir,DOC,2.7,mg/L as C,3540,Inlet,23.38,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Sac River above the Sacramento Weir,Iron- filtered,154,ug/L,3540,Inlet,1334,kg/day
+"Jan 24-25, 2017",2017,Sac River above the Sacramento Weir,Manganese- filtered,8.07,ug/L,3540,Inlet,69.89,kg/day
+"Jan 24-25, 2017",2017,Sac River above the Sacramento Weir,MeHg- filtered,0.057,ng/L,3540,Inlet,0.49370000000000003,g/day
+"Jan 24-25, 2017",2017,Sac River above the Sacramento Weir,MeHg- particulate,0.057,ng/L,3540,Inlet,0.49370000000000003,g/day
+"Jan 24-25, 2017",2017,Sac River above the Sacramento Weir,MeHg- total,0.114,ng/L,3540,Inlet,0.9873,g/day
+"Jan 24-25, 2017",2017,Sac River above the Sacramento Weir,POC,0.7,mg/L as C,3540,Inlet,6.063,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Sac River above the Sacramento Weir,THg- filtered,2.6,ng/L,3540,Inlet,22.52,g/day
+"Jan 24-25, 2017",2017,Sac River above the Sacramento Weir,THg- particulate,11.9,ng/L,3540,Inlet,103.1,g/day
+"Jan 24-25, 2017",2017,Sac River above the Sacramento Weir,THg- total,14.5,ng/L,3540,Inlet,125.6,g/day
+"Jan 24-25, 2017",2017,Sac River above the Sacramento Weir,TOC,3.4,mg/L as C,3540,Inlet,29.45,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Sac River above the Sacramento Weir,TSS,44,mg/L,3540,Inlet,381.1,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Sac River above the Sacramento Weir,VSS,5,mg/L,3540,Inlet,43.3,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Liberty Cut below Stairsteps,Chloride- filtered,4,mg/L,12193.7,Outlet,119.3,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Liberty Cut below Stairsteps,DOC,2.35,mg/L as C,12193.7,Outlet,70.11,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Liberty Cut below Stairsteps,Iron- filtered,180,ug/L,12193.7,Outlet,5370,kg/day
+"Jan 24-25, 2017",2017,Liberty Cut below Stairsteps,Manganese- filtered,5.58,ug/L,12193.7,Outlet,166.5,kg/day
+"Jan 24-25, 2017",2017,Liberty Cut below Stairsteps,MeHg- filtered,0.062,ng/L,12193.7,Outlet,1.85,g/day
+"Jan 24-25, 2017",2017,Liberty Cut below Stairsteps,MeHg- particulate,0.087,ng/L,12193.7,Outlet,2.595,g/day
+"Jan 24-25, 2017",2017,Liberty Cut below Stairsteps,MeHg- total,0.149,ng/L,12193.7,Outlet,4.445,g/day
+"Jan 24-25, 2017",2017,Liberty Cut below Stairsteps,POC,0.85,mg/L as C,12193.7,Outlet,25.36,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Liberty Cut below Stairsteps,THg- filtered,2.15,ng/L,12193.7,Outlet,64.14,g/day
+"Jan 24-25, 2017",2017,Liberty Cut below Stairsteps,THg- particulate,8.85,ng/L,12193.7,Outlet,264,g/day
+"Jan 24-25, 2017",2017,Liberty Cut below Stairsteps,THg- total,11,ng/L,12193.7,Outlet,328.2,g/day
+"Jan 24-25, 2017",2017,Liberty Cut below Stairsteps,TOC,3.2,mg/L as C,12193.7,Outlet,95.47,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Liberty Cut below Stairsteps,TSS,71.8,mg/L,12193.7,Outlet,2142,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Liberty Cut below Stairsteps,VSS,8,mg/L,12193.7,Outlet,238.7,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Little Holland,Chloride- filtered,3.5,mg/L,32362.5,Outlet,277.1,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Little Holland,DOC,2.48,mg/L as C,32362.5,Outlet,196.4,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Little Holland,Iron- filtered,178,ug/L,32362.5,Outlet,14090,kg/day
+"Jan 24-25, 2017",2017,Little Holland,Manganese- filtered,5.44,ug/L,32362.5,Outlet,430.7,kg/day
+"Jan 24-25, 2017",2017,Little Holland,MeHg- filtered,0.0595,ng/L,32362.5,Outlet,4.711,g/day
+"Jan 24-25, 2017",2017,Little Holland,MeHg- particulate,0.0825,ng/L,32362.5,Outlet,6.532,g/day
+"Jan 24-25, 2017",2017,Little Holland,MeHg- total,0.142,ng/L,32362.5,Outlet,11.24,g/day
+"Jan 24-25, 2017",2017,Little Holland,POC,0.675,mg/L as C,32362.5,Outlet,53.44,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Little Holland,THg- filtered,2.38,ng/L,32362.5,Outlet,188.4,g/day
+"Jan 24-25, 2017",2017,Little Holland,THg- particulate,9.43,ng/L,32362.5,Outlet,746.6,g/day
+"Jan 24-25, 2017",2017,Little Holland,THg- total,11.8,ng/L,32362.5,Outlet,934.3,g/day
+"Jan 24-25, 2017",2017,Little Holland,TOC,3.15,mg/L as C,32362.5,Outlet,249.4,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Little Holland,TSS,54.9,mg/L,32362.5,Outlet,4347,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Little Holland,VSS,7,mg/L,32362.5,Outlet,554.2,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Main Liberty,Chloride- filtered,4,mg/L,12889.7,Outlet,126.1,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Main Liberty,DOC,2.35,mg/L as C,12889.7,Outlet,74.11,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Main Liberty,Iron- filtered,180,ug/L,12889.7,Outlet,5676,kg/day
+"Jan 24-25, 2017",2017,Main Liberty,Manganese- filtered,5.58,ug/L,12889.7,Outlet,176,kg/day
+"Jan 24-25, 2017",2017,Main Liberty,MeHg- filtered,0.062,ng/L,12889.7,Outlet,1.955,g/day
+"Jan 24-25, 2017",2017,Main Liberty,MeHg- particulate,0.087,ng/L,12889.7,Outlet,2.744,g/day
+"Jan 24-25, 2017",2017,Main Liberty,MeHg- total,0.149,ng/L,12889.7,Outlet,4.699,g/day
+"Jan 24-25, 2017",2017,Main Liberty,POC,0.85,mg/L as C,12889.7,Outlet,26.81,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Main Liberty,THg- filtered,2.15,ng/L,12889.7,Outlet,67.8,g/day
+"Jan 24-25, 2017",2017,Main Liberty,THg- particulate,8.85,ng/L,12889.7,Outlet,279.1,g/day
+"Jan 24-25, 2017",2017,Main Liberty,THg- total,11,ng/L,12889.7,Outlet,346.9,g/day
+"Jan 24-25, 2017",2017,Main Liberty,TOC,3.2,mg/L as C,12889.7,Outlet,100.9,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Main Liberty,TSS,71.8,mg/L,12889.7,Outlet,2264,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Main Liberty,VSS,8,mg/L,12889.7,Outlet,252.3,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Shag Slough below Stairsteps,Chloride- filtered,11,mg/L,21739.9,Outlet,585.1,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Shag Slough below Stairsteps,DOC,4,mg/L as C,21739.9,Outlet,212.8,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Shag Slough below Stairsteps,Iron- filtered,118,ug/L,21739.9,Outlet,6276,kg/day
+"Jan 24-25, 2017",2017,Shag Slough below Stairsteps,Manganese- filtered,6.18,ug/L,21739.9,Outlet,328.7,kg/day
+"Jan 24-25, 2017",2017,Shag Slough below Stairsteps,MeHg- filtered,0.102,ng/L,21739.9,Outlet,5.425,g/day
+"Jan 24-25, 2017",2017,Shag Slough below Stairsteps,MeHg- particulate,0.095,ng/L,21739.9,Outlet,5.053,g/day
+"Jan 24-25, 2017",2017,Shag Slough below Stairsteps,MeHg- total,0.197,ng/L,21739.9,Outlet,10.48,g/day
+"Jan 24-25, 2017",2017,Shag Slough below Stairsteps,POC,1.4,mg/L as C,21739.9,Outlet,74.46,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Shag Slough below Stairsteps,THg- filtered,2.6,ng/L,21739.9,Outlet,138.3,g/day
+"Jan 24-25, 2017",2017,Shag Slough below Stairsteps,THg- particulate,22,ng/L,21739.9,Outlet,1170,g/day
+"Jan 24-25, 2017",2017,Shag Slough below Stairsteps,THg- total,24.6,ng/L,21739.9,Outlet,1308,g/day
+"Jan 24-25, 2017",2017,Shag Slough below Stairsteps,TOC,5.4,mg/L as C,21739.9,Outlet,287.2,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Shag Slough below Stairsteps,TSS,124,mg/L,21739.9,Outlet,6595,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Shag Slough below Stairsteps,VSS,14,mg/L,21739.9,Outlet,744.6,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Toe Drain at 1/2 Lisbon,Chloride- filtered,3,mg/L,9579.1,Outlet,70.31,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Toe Drain at 1/2 Lisbon,DOC,2.6,mg/L as C,9579.1,Outlet,60.93,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Toe Drain at 1/2 Lisbon,Iron- filtered,176,ug/L,9579.1,Outlet,4125,kg/day
+"Jan 24-25, 2017",2017,Toe Drain at 1/2 Lisbon,Manganese- filtered,5.29,ug/L,9579.1,Outlet,124,kg/day
+"Jan 24-25, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- filtered,0.057,ng/L,9579.1,Outlet,1.336,g/day
+"Jan 24-25, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- particulate,0.078,ng/L,9579.1,Outlet,1.828,g/day
+"Jan 24-25, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- total,0.135,ng/L,9579.1,Outlet,3.164,g/day
+"Jan 24-25, 2017",2017,Toe Drain at 1/2 Lisbon,POC,0.5,mg/L as C,9579.1,Outlet,11.72,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Toe Drain at 1/2 Lisbon,THg- filtered,2.6,ng/L,9579.1,Outlet,60.93,g/day
+"Jan 24-25, 2017",2017,Toe Drain at 1/2 Lisbon,THg- particulate,10,ng/L,9579.1,Outlet,234.4,g/day
+"Jan 24-25, 2017",2017,Toe Drain at 1/2 Lisbon,THg- total,12.6,ng/L,9579.1,Outlet,295.3,g/day
+"Jan 24-25, 2017",2017,Toe Drain at 1/2 Lisbon,TOC,3.1,mg/L as C,9579.1,Outlet,72.65,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Toe Drain at 1/2 Lisbon,TSS,38,mg/L,9579.1,Outlet,890.6,"1,000 kg/day"
+"Jan 24-25, 2017",2017,Toe Drain at 1/2 Lisbon,VSS,6,mg/L,9579.1,Outlet,140.6,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Below Liberty Island,Chloride- filtered,,,,Below Liberty,388.6,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Below Liberty Island,DOC,,,,Below Liberty,143.5,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Below Liberty Island,Iron- filtered,,,,Below Liberty,7057,kg/day
+"Jan 31-Feb 1, 2017",2017,Below Liberty Island,Manganese- filtered,,,,Below Liberty,396.9,kg/day
+"Jan 31-Feb 1, 2017",2017,Below Liberty Island,MeHg- filtered,,,,Below Liberty,3.872,g/day
+"Jan 31-Feb 1, 2017",2017,Below Liberty Island,MeHg- particulate,,,,Below Liberty,3.608,g/day
+"Jan 31-Feb 1, 2017",2017,Below Liberty Island,MeHg- total,,,,Below Liberty,7.482,g/day
+"Jan 31-Feb 1, 2017",2017,Below Liberty Island,POC,,,,Below Liberty,20.82,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Below Liberty Island,THg- filtered,,,,Below Liberty,74.08,g/day
+"Jan 31-Feb 1, 2017",2017,Below Liberty Island,THg- particulate,,,,Below Liberty,305.7,g/day
+"Jan 31-Feb 1, 2017",2017,Below Liberty Island,THg- total,,,,Below Liberty,379.7,g/day
+"Jan 31-Feb 1, 2017",2017,Below Liberty Island,TOC,,,,Below Liberty,164.3,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Below Liberty Island,TSS,,,,Below Liberty,1569,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Below Liberty Island,VSS,,,,Below Liberty,208.2,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,CCSB- Overflow Weir,Chloride- filtered,18,mg/L,3131.8999999999996,Inlet,137.9,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,CCSB- Overflow Weir,DOC,3.95,mg/L as C,3131.8999999999996,Inlet,30.27,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,CCSB- Overflow Weir,Iron- filtered,13.7,ug/L,3131.8999999999996,Inlet,105,kg/day
+"Jan 31-Feb 1, 2017",2017,CCSB- Overflow Weir,Manganese- filtered,2.26,ug/L,3131.8999999999996,Inlet,17.32,kg/day
+"Jan 31-Feb 1, 2017",2017,CCSB- Overflow Weir,MeHg- filtered,0.0395,ng/L,3131.8999999999996,Inlet,0.3027,g/day
+"Jan 31-Feb 1, 2017",2017,CCSB- Overflow Weir,MeHg- particulate,0.085,ng/L,3131.8999999999996,Inlet,0.6513,g/day
+"Jan 31-Feb 1, 2017",2017,CCSB- Overflow Weir,MeHg- total,0.124,ng/L,3131.8999999999996,Inlet,0.9501,g/day
+"Jan 31-Feb 1, 2017",2017,CCSB- Overflow Weir,POC,0.2,mg/L as C,3131.8999999999996,Inlet,1.532,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,CCSB- Overflow Weir,THg- filtered,1.55,ng/L,3131.8999999999996,Inlet,11.88,g/day
+"Jan 31-Feb 1, 2017",2017,CCSB- Overflow Weir,THg- particulate,6.4,ng/L,3131.8999999999996,Inlet,49.04,g/day
+"Jan 31-Feb 1, 2017",2017,CCSB- Overflow Weir,THg- total,7.95,ng/L,3131.8999999999996,Inlet,60.92,g/day
+"Jan 31-Feb 1, 2017",2017,CCSB- Overflow Weir,TOC,4.15,mg/L as C,3131.8999999999996,Inlet,31.8,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,CCSB- Overflow Weir,TSS,31.5,mg/L,3131.8999999999996,Inlet,241.4,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,CCSB- Overflow Weir,VSS,3,mg/L,3131.8999999999996,Inlet,22.99,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Fremont Weir,Chloride- filtered,4,mg/L,17100.7,Inlet,167.4,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Fremont Weir,DOC,1.28,mg/L as C,17100.7,Inlet,53.55,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Fremont Weir,Iron- filtered,66.5,ug/L,17100.7,Inlet,2782,kg/day
+"Jan 31-Feb 1, 2017",2017,Fremont Weir,Manganese- filtered,5.47,ug/L,17100.7,Inlet,228.9,kg/day
+"Jan 31-Feb 1, 2017",2017,Fremont Weir,MeHg- filtered,0.0235,ng/L,17100.7,Inlet,0.9832,g/day
+"Jan 31-Feb 1, 2017",2017,Fremont Weir,MeHg- particulate,0.041,ng/L,17100.7,Inlet,1.715,g/day
+"Jan 31-Feb 1, 2017",2017,Fremont Weir,MeHg- total,0.0645,ng/L,17100.7,Inlet,2.699,g/day
+"Jan 31-Feb 1, 2017",2017,Fremont Weir,POC,0.117,mg/L as C,17100.7,Inlet,4.895,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Fremont Weir,THg- filtered,1.02,ng/L,17100.7,Inlet,42.68,g/day
+"Jan 31-Feb 1, 2017",2017,Fremont Weir,THg- particulate,4.8,ng/L,17100.7,Inlet,200.8,g/day
+"Jan 31-Feb 1, 2017",2017,Fremont Weir,THg- total,5.82,ng/L,17100.7,Inlet,243.5,g/day
+"Jan 31-Feb 1, 2017",2017,Fremont Weir,TOC,1.4,mg/L as C,17100.7,Inlet,58.57,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Fremont Weir,TSS,45.5,mg/L,17100.7,Inlet,1904,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Fremont Weir,VSS,3.83,mg/L,17100.7,Inlet,160.2,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Knights Landing Ridge Cut,Chloride- filtered,13,mg/L,4334.9,Inlet,137.9,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Knights Landing Ridge Cut,DOC,6.1,mg/L as C,4334.9,Inlet,64.69,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Knights Landing Ridge Cut,Iron- filtered,207,ug/L,4334.9,Inlet,2195,kg/day
+"Jan 31-Feb 1, 2017",2017,Knights Landing Ridge Cut,Manganese- filtered,20.6,ug/L,4334.9,Inlet,218.5,kg/day
+"Jan 31-Feb 1, 2017",2017,Knights Landing Ridge Cut,MeHg- filtered,0.13,ng/L,4334.9,Inlet,1.379,g/day
+"Jan 31-Feb 1, 2017",2017,Knights Landing Ridge Cut,MeHg- particulate,0.081,ng/L,4334.9,Inlet,0.8591,g/day
+"Jan 31-Feb 1, 2017",2017,Knights Landing Ridge Cut,MeHg- total,0.211,ng/L,4334.9,Inlet,2.238,g/day
+"Jan 31-Feb 1, 2017",2017,Knights Landing Ridge Cut,POC,2.2,mg/L as C,4334.9,Inlet,23.33,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Knights Landing Ridge Cut,THg- filtered,1.4,ng/L,4334.9,Inlet,14.85,g/day
+"Jan 31-Feb 1, 2017",2017,Knights Landing Ridge Cut,THg- particulate,3.5,ng/L,4334.9,Inlet,37.12,g/day
+"Jan 31-Feb 1, 2017",2017,Knights Landing Ridge Cut,THg- total,4.9,ng/L,4334.9,Inlet,51.97,g/day
+"Jan 31-Feb 1, 2017",2017,Knights Landing Ridge Cut,TOC,8.3,mg/L as C,4334.9,Inlet,88.03,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Knights Landing Ridge Cut,TSS,47,mg/L,4334.9,Inlet,498.5,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Knights Landing Ridge Cut,VSS,6,mg/L,4334.9,Inlet,63.63,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Putah Creek at Mace Blvd,Chloride- filtered,21,mg/L,25.3,Inlet,1.3,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Putah Creek at Mace Blvd,DOC,2.8,mg/L as C,25.3,Inlet,0.1733,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Putah Creek at Mace Blvd,Iron- filtered,5.42,ug/L,25.3,Inlet,0.3355,kg/day
+"Jan 31-Feb 1, 2017",2017,Putah Creek at Mace Blvd,Manganese- filtered,10,ug/L,25.3,Inlet,0.619,kg/day
+"Jan 31-Feb 1, 2017",2017,Putah Creek at Mace Blvd,MeHg- filtered,0.049,ng/L,25.3,Inlet,0.003033,g/day
+"Jan 31-Feb 1, 2017",2017,Putah Creek at Mace Blvd,MeHg- particulate,0.066,ng/L,25.3,Inlet,0.004085,g/day
+"Jan 31-Feb 1, 2017",2017,Putah Creek at Mace Blvd,MeHg- total,0.115,ng/L,25.3,Inlet,0.007118,g/day
+"Jan 31-Feb 1, 2017",2017,Putah Creek at Mace Blvd,POC,0,mg/L as C,25.3,Inlet,0,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Putah Creek at Mace Blvd,THg- filtered,0.6,ng/L,25.3,Inlet,0.03714,g/day
+"Jan 31-Feb 1, 2017",2017,Putah Creek at Mace Blvd,THg- particulate,3.1,ng/L,25.3,Inlet,0.1919,g/day
+"Jan 31-Feb 1, 2017",2017,Putah Creek at Mace Blvd,THg- total,3.7,ng/L,25.3,Inlet,0.229,g/day
+"Jan 31-Feb 1, 2017",2017,Putah Creek at Mace Blvd,TOC,2.8,mg/L as C,25.3,Inlet,0.1733,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Putah Creek at Mace Blvd,TSS,18,mg/L,25.3,Inlet,1.114,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Putah Creek at Mace Blvd,VSS,2,mg/L,25.3,Inlet,0.1238,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Liberty Cut below Stairsteps,Chloride- filtered,13,mg/L,5456.8,Outlet,173.6,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Liberty Cut below Stairsteps,DOC,4.9,mg/L as C,5456.8,Outlet,65.42,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Liberty Cut below Stairsteps,Iron- filtered,221,ug/L,5456.8,Outlet,2950,kg/day
+"Jan 31-Feb 1, 2017",2017,Liberty Cut below Stairsteps,Manganese- filtered,10.2,ug/L,5456.8,Outlet,136.2,kg/day
+"Jan 31-Feb 1, 2017",2017,Liberty Cut below Stairsteps,MeHg- filtered,0.112,ng/L,5456.8,Outlet,1.495,g/day
+"Jan 31-Feb 1, 2017",2017,Liberty Cut below Stairsteps,MeHg- particulate,0.078,ng/L,5456.8,Outlet,1.041,g/day
+"Jan 31-Feb 1, 2017",2017,Liberty Cut below Stairsteps,MeHg- total,0.19,ng/L,5456.8,Outlet,2.537,g/day
+"Jan 31-Feb 1, 2017",2017,Liberty Cut below Stairsteps,POC,0.9,mg/L as C,5456.8,Outlet,12.02,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Liberty Cut below Stairsteps,THg- filtered,1.8,ng/L,5456.8,Outlet,24.03,g/day
+"Jan 31-Feb 1, 2017",2017,Liberty Cut below Stairsteps,THg- particulate,4.8,ng/L,5456.8,Outlet,64.08,g/day
+"Jan 31-Feb 1, 2017",2017,Liberty Cut below Stairsteps,THg- total,6.6,ng/L,5456.8,Outlet,88.11,g/day
+"Jan 31-Feb 1, 2017",2017,Liberty Cut below Stairsteps,TOC,5.8,mg/L as C,5456.8,Outlet,77.43,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Liberty Cut below Stairsteps,TSS,40,mg/L,5456.8,Outlet,534,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Liberty Cut below Stairsteps,VSS,5,mg/L,5456.8,Outlet,66.75,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Little Holland,Chloride- filtered,8.5,mg/L,10709.4,Outlet,222.7,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Little Holland,DOC,3.3,mg/L as C,10709.4,Outlet,86.46,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Little Holland,Iron- filtered,140,ug/L,10709.4,Outlet,3668,kg/day
+"Jan 31-Feb 1, 2017",2017,Little Holland,Manganese- filtered,8.43,ug/L,10709.4,Outlet,220.9,kg/day
+"Jan 31-Feb 1, 2017",2017,Little Holland,MeHg- filtered,0.0865,ng/L,10709.4,Outlet,2.266,g/day
+"Jan 31-Feb 1, 2017",2017,Little Holland,MeHg- particulate,0.077,ng/L,10709.4,Outlet,2.018,g/day
+"Jan 31-Feb 1, 2017",2017,Little Holland,MeHg- total,0.164,ng/L,10709.4,Outlet,4.297,g/day
+"Jan 31-Feb 1, 2017",2017,Little Holland,POC,0.5,mg/L as C,10709.4,Outlet,13.1,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Little Holland,THg- filtered,1.65,ng/L,10709.4,Outlet,43.23,g/day
+"Jan 31-Feb 1, 2017",2017,Little Holland,THg- particulate,4.08,ng/L,10709.4,Outlet,106.9,g/day
+"Jan 31-Feb 1, 2017",2017,Little Holland,THg- total,5.72,ng/L,10709.4,Outlet,149.9,g/day
+"Jan 31-Feb 1, 2017",2017,Little Holland,TOC,3.8,mg/L as C,10709.4,Outlet,99.57,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Little Holland,TSS,30.5,mg/L,10709.4,Outlet,799.1,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Little Holland,VSS,3,mg/L,10709.4,Outlet,78.6,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Main Liberty,Chloride- filtered,15,mg/L,582,Outlet,21.36,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Main Liberty,DOC,4.85,mg/L as C,582,Outlet,6.906,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Main Liberty,Iron- filtered,140,ug/L,582,Outlet,199.3,kg/day
+"Jan 31-Feb 1, 2017",2017,Main Liberty,Manganese- filtered,12,ug/L,582,Outlet,17.09,kg/day
+"Jan 31-Feb 1, 2017",2017,Main Liberty,MeHg- filtered,0.1,ng/L,582,Outlet,0.1424,g/day
+"Jan 31-Feb 1, 2017",2017,Main Liberty,MeHg- particulate,0.211,ng/L,582,Outlet,0.3004,g/day
+"Jan 31-Feb 1, 2017",2017,Main Liberty,MeHg- total,0.311,ng/L,582,Outlet,0.4428,g/day
+"Jan 31-Feb 1, 2017",2017,Main Liberty,POC,0.7,mg/L as C,582,Outlet,0.9967,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Main Liberty,THg- filtered,1.78,ng/L,582,Outlet,2.535,g/day
+"Jan 31-Feb 1, 2017",2017,Main Liberty,THg- particulate,5.78,ng/L,582,Outlet,8.23,g/day
+"Jan 31-Feb 1, 2017",2017,Main Liberty,THg- total,7.56,ng/L,582,Outlet,10.76,g/day
+"Jan 31-Feb 1, 2017",2017,Main Liberty,TOC,5.55,mg/L as C,582,Outlet,7.903,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Main Liberty,TSS,38,mg/L,582,Outlet,54.11,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Main Liberty,VSS,5.25,mg/L,582,Outlet,7.476,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Shag Slough below Stairsteps,Chloride- filtered,17,mg/L,2404.2,Outlet,100,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Shag Slough below Stairsteps,DOC,4.8,mg/L as C,2404.2,Outlet,28.23,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Shag Slough below Stairsteps,Iron- filtered,59.6,ug/L,2404.2,Outlet,350.6,kg/day
+"Jan 31-Feb 1, 2017",2017,Shag Slough below Stairsteps,Manganese- filtered,13.8,ug/L,2404.2,Outlet,81.17,kg/day
+"Jan 31-Feb 1, 2017",2017,Shag Slough below Stairsteps,MeHg- filtered,0.088,ng/L,2404.2,Outlet,0.5176,g/day
+"Jan 31-Feb 1, 2017",2017,Shag Slough below Stairsteps,MeHg- particulate,0.344,ng/L,2404.2,Outlet,2.023,g/day
+"Jan 31-Feb 1, 2017",2017,Shag Slough below Stairsteps,MeHg- total,0.432,ng/L,2404.2,Outlet,2.541,g/day
+"Jan 31-Feb 1, 2017",2017,Shag Slough below Stairsteps,POC,0.5,mg/L as C,2404.2,Outlet,2.941,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Shag Slough below Stairsteps,THg- filtered,1.75,ng/L,2404.2,Outlet,10.29,g/day
+"Jan 31-Feb 1, 2017",2017,Shag Slough below Stairsteps,THg- particulate,6.77,ng/L,2404.2,Outlet,39.82,g/day
+"Jan 31-Feb 1, 2017",2017,Shag Slough below Stairsteps,THg- total,8.52,ng/L,2404.2,Outlet,50.12,g/day
+"Jan 31-Feb 1, 2017",2017,Shag Slough below Stairsteps,TOC,5.3,mg/L as C,2404.2,Outlet,31.18,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Shag Slough below Stairsteps,TSS,36,mg/L,2404.2,Outlet,211.8,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Shag Slough below Stairsteps,VSS,5.5,mg/L,2404.2,Outlet,32.35,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Toe Drain at 1/2 Lisbon,Chloride- filtered,4,mg/L,5440.4,Outlet,53.24,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Toe Drain at 1/2 Lisbon,DOC,1.7,mg/L as C,5440.4,Outlet,22.63,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Toe Drain at 1/2 Lisbon,Iron- filtered,58.2,ug/L,5440.4,Outlet,774.7,kg/day
+"Jan 31-Feb 1, 2017",2017,Toe Drain at 1/2 Lisbon,Manganese- filtered,6.66,ug/L,5440.4,Outlet,88.65,kg/day
+"Jan 31-Feb 1, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- filtered,0.061,ng/L,5440.4,Outlet,0.8119,g/day
+"Jan 31-Feb 1, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- particulate,0.076,ng/L,5440.4,Outlet,1.012,g/day
+"Jan 31-Feb 1, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- total,0.137,ng/L,5440.4,Outlet,1.824,g/day
+"Jan 31-Feb 1, 2017",2017,Toe Drain at 1/2 Lisbon,POC,0.1,mg/L as C,5440.4,Outlet,1.331,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Toe Drain at 1/2 Lisbon,THg- filtered,1.5,ng/L,5440.4,Outlet,19.97,g/day
+"Jan 31-Feb 1, 2017",2017,Toe Drain at 1/2 Lisbon,THg- particulate,3.35,ng/L,5440.4,Outlet,44.59,g/day
+"Jan 31-Feb 1, 2017",2017,Toe Drain at 1/2 Lisbon,THg- total,4.85,ng/L,5440.4,Outlet,64.56,g/day
+"Jan 31-Feb 1, 2017",2017,Toe Drain at 1/2 Lisbon,TOC,1.8,mg/L as C,5440.4,Outlet,23.96,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Toe Drain at 1/2 Lisbon,TSS,21,mg/L,5440.4,Outlet,279.5,"1,000 kg/day"
+"Jan 31-Feb 1, 2017",2017,Toe Drain at 1/2 Lisbon,VSS,1,mg/L,5440.4,Outlet,13.31,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Below Liberty Island,Chloride- filtered,,,,Below Liberty,1884,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Below Liberty Island,DOC,,,,Below Liberty,836.9,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Below Liberty Island,Iron- filtered,,,,Below Liberty,62250,kg/day
+"Feb 14-15, 2017",2017,Below Liberty Island,Manganese- filtered,,,,Below Liberty,3227,kg/day
+"Feb 14-15, 2017",2017,Below Liberty Island,MeHg- filtered,,,,Below Liberty,38.42,g/day
+"Feb 14-15, 2017",2017,Below Liberty Island,MeHg- particulate,,,,Below Liberty,61.22,g/day
+"Feb 14-15, 2017",2017,Below Liberty Island,MeHg- total,,,,Below Liberty,99.62,g/day
+"Feb 14-15, 2017",2017,Below Liberty Island,POC,,,,Below Liberty,96.08,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Below Liberty Island,THg- filtered,,,,Below Liberty,1159,g/day
+"Feb 14-15, 2017",2017,Below Liberty Island,THg- particulate,,,,Below Liberty,7153,g/day
+"Feb 14-15, 2017",2017,Below Liberty Island,THg- total,,,,Below Liberty,8315,g/day
+"Feb 14-15, 2017",2017,Below Liberty Island,TOC,,,,Below Liberty,933.1,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Below Liberty Island,TSS,,,,Below Liberty,45860,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Below Liberty Island,VSS,,,,Below Liberty,4747,"1,000 kg/day"
+"Feb 14-15, 2017",2017,CCSB- Overflow Weir,Chloride- filtered,16.5,mg/L,5166.0999999999995,Inlet,208.5,"1,000 kg/day"
+"Feb 14-15, 2017",2017,CCSB- Overflow Weir,DOC,3.25,mg/L as C,5166.0999999999995,Inlet,41.08,"1,000 kg/day"
+"Feb 14-15, 2017",2017,CCSB- Overflow Weir,Iron- filtered,24.6,ug/L,5166.0999999999995,Inlet,310.9,kg/day
+"Feb 14-15, 2017",2017,CCSB- Overflow Weir,Manganese- filtered,3.75,ug/L,5166.0999999999995,Inlet,47.4,kg/day
+"Feb 14-15, 2017",2017,CCSB- Overflow Weir,MeHg- filtered,0.0745,ng/L,5166.0999999999995,Inlet,0.9416,g/day
+"Feb 14-15, 2017",2017,CCSB- Overflow Weir,MeHg- particulate,0.148,ng/L,5166.0999999999995,Inlet,1.871,g/day
+"Feb 14-15, 2017",2017,CCSB- Overflow Weir,MeHg- total,0.222,ng/L,5166.0999999999995,Inlet,2.806,g/day
+"Feb 14-15, 2017",2017,CCSB- Overflow Weir,POC,0.2,mg/L as C,5166.0999999999995,Inlet,2.528,"1,000 kg/day"
+"Feb 14-15, 2017",2017,CCSB- Overflow Weir,THg- filtered,1.7,ng/L,5166.0999999999995,Inlet,21.49,g/day
+"Feb 14-15, 2017",2017,CCSB- Overflow Weir,THg- particulate,20.2,ng/L,5166.0999999999995,Inlet,255.3,g/day
+"Feb 14-15, 2017",2017,CCSB- Overflow Weir,THg- total,21.9,ng/L,5166.0999999999995,Inlet,276.8,g/day
+"Feb 14-15, 2017",2017,CCSB- Overflow Weir,TOC,3.45,mg/L as C,5166.0999999999995,Inlet,43.61,"1,000 kg/day"
+"Feb 14-15, 2017",2017,CCSB- Overflow Weir,TSS,78.5,mg/L,5166.0999999999995,Inlet,992.2,"1,000 kg/day"
+"Feb 14-15, 2017",2017,CCSB- Overflow Weir,VSS,6,mg/L,5166.0999999999995,Inlet,75.84,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Fremont Weir,Chloride- filtered,2,mg/L,142763.5,Inlet,698.6,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Fremont Weir,DOC,1.6,mg/L as C,142763.5,Inlet,558.9,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Fremont Weir,Iron- filtered,139,ug/L,142763.5,Inlet,48550,kg/day
+"Feb 14-15, 2017",2017,Fremont Weir,Manganese- filtered,7.73,ug/L,142763.5,Inlet,2700,kg/day
+"Feb 14-15, 2017",2017,Fremont Weir,MeHg- filtered,0.0378,ng/L,142763.5,Inlet,13.2,g/day
+"Feb 14-15, 2017",2017,Fremont Weir,MeHg- particulate,0.0698,ng/L,142763.5,Inlet,24.38,g/day
+"Feb 14-15, 2017",2017,Fremont Weir,MeHg- total,0.108,ng/L,142763.5,Inlet,37.72,g/day
+"Feb 14-15, 2017",2017,Fremont Weir,POC,0.0167,mg/L as C,142763.5,Inlet,5.833,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Fremont Weir,THg- filtered,1.93,ng/L,142763.5,Inlet,674.1,g/day
+"Feb 14-15, 2017",2017,Fremont Weir,THg- particulate,14.3,ng/L,142763.5,Inlet,4995,g/day
+"Feb 14-15, 2017",2017,Fremont Weir,THg- total,16.2,ng/L,142763.5,Inlet,5658,g/day
+"Feb 14-15, 2017",2017,Fremont Weir,TOC,1.62,mg/L as C,142763.5,Inlet,565.8,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Fremont Weir,TSS,115,mg/L,142763.5,Inlet,40170,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Fremont Weir,VSS,6,mg/L,142763.5,Inlet,2096,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Knights Landing Ridge Cut,Chloride- filtered,15,mg/L,3779.9,Inlet,138.7,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Knights Landing Ridge Cut,DOC,6.9,mg/L as C,3779.9,Inlet,63.81,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Knights Landing Ridge Cut,Iron- filtered,347,ug/L,3779.9,Inlet,3209,kg/day
+"Feb 14-15, 2017",2017,Knights Landing Ridge Cut,Manganese- filtered,11.1,ug/L,3779.9,Inlet,102.7,kg/day
+"Feb 14-15, 2017",2017,Knights Landing Ridge Cut,MeHg- filtered,0.246,ng/L,3779.9,Inlet,2.275,g/day
+"Feb 14-15, 2017",2017,Knights Landing Ridge Cut,MeHg- particulate,0.153,ng/L,3779.9,Inlet,1.415,g/day
+"Feb 14-15, 2017",2017,Knights Landing Ridge Cut,MeHg- total,0.399,ng/L,3779.9,Inlet,3.69,g/day
+"Feb 14-15, 2017",2017,Knights Landing Ridge Cut,POC,0.2,mg/L as C,3779.9,Inlet,1.85,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Knights Landing Ridge Cut,THg- filtered,1.9,ng/L,3779.9,Inlet,17.57,g/day
+"Feb 14-15, 2017",2017,Knights Landing Ridge Cut,THg- particulate,4.9,ng/L,3779.9,Inlet,45.31,g/day
+"Feb 14-15, 2017",2017,Knights Landing Ridge Cut,THg- total,6.8,ng/L,3779.9,Inlet,62.89,g/day
+"Feb 14-15, 2017",2017,Knights Landing Ridge Cut,TOC,7.1,mg/L as C,3779.9,Inlet,65.66,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Knights Landing Ridge Cut,TSS,47,mg/L,3779.9,Inlet,434.6,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Knights Landing Ridge Cut,VSS,4,mg/L,3779.9,Inlet,36.99,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Putah Creek at Mace Blvd,Chloride- filtered,9,mg/L,676,Inlet,14.89,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Putah Creek at Mace Blvd,DOC,2.6,mg/L as C,676,Inlet,4.3,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Putah Creek at Mace Blvd,Iron- filtered,23.4,ug/L,676,Inlet,38.7,kg/day
+"Feb 14-15, 2017",2017,Putah Creek at Mace Blvd,Manganese- filtered,7.43,ug/L,676,Inlet,12.29,kg/day
+"Feb 14-15, 2017",2017,Putah Creek at Mace Blvd,MeHg- filtered,0.058,ng/L,676,Inlet,0.09593,g/day
+"Feb 14-15, 2017",2017,Putah Creek at Mace Blvd,MeHg- particulate,0.073,ng/L,676,Inlet,0.1207,g/day
+"Feb 14-15, 2017",2017,Putah Creek at Mace Blvd,MeHg- total,0.131,ng/L,676,Inlet,0.2167,g/day
+"Feb 14-15, 2017",2017,Putah Creek at Mace Blvd,POC,0,mg/L as C,676,Inlet,0,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Putah Creek at Mace Blvd,THg- filtered,1.4,ng/L,676,Inlet,2.315,g/day
+"Feb 14-15, 2017",2017,Putah Creek at Mace Blvd,THg- particulate,5.6,ng/L,676,Inlet,9.262,g/day
+"Feb 14-15, 2017",2017,Putah Creek at Mace Blvd,THg- total,7,ng/L,676,Inlet,11.58,g/day
+"Feb 14-15, 2017",2017,Putah Creek at Mace Blvd,TOC,2.6,mg/L as C,676,Inlet,4.3,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Putah Creek at Mace Blvd,TSS,37,mg/L,676,Inlet,61.19,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Putah Creek at Mace Blvd,VSS,3,mg/L,676,Inlet,4.962,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Sac River above the Sacramento Weir,Chloride- filtered,1,mg/L,36300,Inlet,88.81,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Sac River above the Sacramento Weir,DOC,1.7,mg/L as C,36300,Inlet,151,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Sac River above the Sacramento Weir,Iron- filtered,217,ug/L,36300,Inlet,19270,kg/day
+"Feb 14-15, 2017",2017,Sac River above the Sacramento Weir,Manganese- filtered,11.8,ug/L,36300,Inlet,1048,kg/day
+"Feb 14-15, 2017",2017,Sac River above the Sacramento Weir,MeHg- filtered,0.029,ng/L,36300,Inlet,2.576,g/day
+"Feb 14-15, 2017",2017,Sac River above the Sacramento Weir,MeHg- particulate,0.065,ng/L,36300,Inlet,5.773,g/day
+"Feb 14-15, 2017",2017,Sac River above the Sacramento Weir,MeHg- total,0.094,ng/L,36300,Inlet,8.348,g/day
+"Feb 14-15, 2017",2017,Sac River above the Sacramento Weir,POC,0,mg/L as C,36300,Inlet,0,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Sac River above the Sacramento Weir,THg- filtered,2.5,ng/L,36300,Inlet,222,g/day
+"Feb 14-15, 2017",2017,Sac River above the Sacramento Weir,THg- particulate,18.8,ng/L,36300,Inlet,1670,g/day
+"Feb 14-15, 2017",2017,Sac River above the Sacramento Weir,THg- total,21.3,ng/L,36300,Inlet,1892,g/day
+"Feb 14-15, 2017",2017,Sac River above the Sacramento Weir,TOC,1.7,mg/L as C,36300,Inlet,151,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Sac River above the Sacramento Weir,TSS,102,mg/L,36300,Inlet,9059,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Sac River above the Sacramento Weir,VSS,6,mg/L,36300,Inlet,532.9,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Liberty Cut below Stairsteps,Chloride- filtered,2,mg/L,8696.2,Outlet,42.55,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Liberty Cut below Stairsteps,DOC,1.6,mg/L as C,8696.2,Outlet,34.04,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Liberty Cut below Stairsteps,Iron- filtered,191,ug/L,8696.2,Outlet,4064,kg/day
+"Feb 14-15, 2017",2017,Liberty Cut below Stairsteps,Manganese- filtered,5.03,ug/L,8696.2,Outlet,107,kg/day
+"Feb 14-15, 2017",2017,Liberty Cut below Stairsteps,MeHg- filtered,0.073,ng/L,8696.2,Outlet,1.553,g/day
+"Feb 14-15, 2017",2017,Liberty Cut below Stairsteps,MeHg- particulate,0.14,ng/L,8696.2,Outlet,2.979,g/day
+"Feb 14-15, 2017",2017,Liberty Cut below Stairsteps,MeHg- total,0.213,ng/L,8696.2,Outlet,4.532,g/day
+"Feb 14-15, 2017",2017,Liberty Cut below Stairsteps,POC,0,mg/L as C,8696.2,Outlet,0,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Liberty Cut below Stairsteps,THg- filtered,2.5,ng/L,8696.2,Outlet,53.19,g/day
+"Feb 14-15, 2017",2017,Liberty Cut below Stairsteps,THg- particulate,13,ng/L,8696.2,Outlet,276.6,g/day
+"Feb 14-15, 2017",2017,Liberty Cut below Stairsteps,THg- total,15.5,ng/L,8696.2,Outlet,329.8,g/day
+"Feb 14-15, 2017",2017,Liberty Cut below Stairsteps,TOC,1.6,mg/L as C,8696.2,Outlet,34.04,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Liberty Cut below Stairsteps,TSS,88,mg/L,8696.2,Outlet,1872,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Liberty Cut below Stairsteps,VSS,8,mg/L,8696.2,Outlet,170.2,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Little Holland,Chloride- filtered,1.5,mg/L,66098.7,Outlet,242.6,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Little Holland,DOC,1.6,mg/L as C,66098.7,Outlet,258.7,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Little Holland,Iron- filtered,149,ug/L,66098.7,Outlet,24100,kg/day
+"Feb 14-15, 2017",2017,Little Holland,Manganese- filtered,7.82,ug/L,66098.7,Outlet,1265,kg/day
+"Feb 14-15, 2017",2017,Little Holland,MeHg- filtered,0.052,ng/L,66098.7,Outlet,8.409,g/day
+"Feb 14-15, 2017",2017,Little Holland,MeHg- particulate,0.097,ng/L,66098.7,Outlet,15.69,g/day
+"Feb 14-15, 2017",2017,Little Holland,MeHg- total,0.149,ng/L,66098.7,Outlet,24.1,g/day
+"Feb 14-15, 2017",2017,Little Holland,POC,0,mg/L as C,66098.7,Outlet,0,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Little Holland,THg- filtered,2.25,ng/L,66098.7,Outlet,363.9,g/day
+"Feb 14-15, 2017",2017,Little Holland,THg- particulate,12.2,ng/L,66098.7,Outlet,1973,g/day
+"Feb 14-15, 2017",2017,Little Holland,THg- total,14.4,ng/L,66098.7,Outlet,2329,g/day
+"Feb 14-15, 2017",2017,Little Holland,TOC,1.6,mg/L as C,66098.7,Outlet,258.7,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Little Holland,TSS,67,mg/L,66098.7,Outlet,10830,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Little Holland,VSS,6,mg/L,66098.7,Outlet,970.3,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Main Liberty,Chloride- filtered,3,mg/L,71458.2,Outlet,524.5,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Main Liberty,DOC,1.55,mg/L as C,71458.2,Outlet,271,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Main Liberty,Iron- filtered,146,ug/L,71458.2,Outlet,25530,kg/day
+"Feb 14-15, 2017",2017,Main Liberty,Manganese- filtered,5.04,ug/L,71458.2,Outlet,881.1,kg/day
+"Feb 14-15, 2017",2017,Main Liberty,MeHg- filtered,0.0725,ng/L,71458.2,Outlet,12.68,g/day
+"Feb 14-15, 2017",2017,Main Liberty,MeHg- particulate,0.137,ng/L,71458.2,Outlet,23.95,g/day
+"Feb 14-15, 2017",2017,Main Liberty,MeHg- total,0.21,ng/L,71458.2,Outlet,36.71,g/day
+"Feb 14-15, 2017",2017,Main Liberty,POC,0,mg/L as C,71458.2,Outlet,0,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Main Liberty,THg- filtered,2.4,ng/L,71458.2,Outlet,419.6,g/day
+"Feb 14-15, 2017",2017,Main Liberty,THg- particulate,14.4,ng/L,71458.2,Outlet,2518,g/day
+"Feb 14-15, 2017",2017,Main Liberty,THg- total,16.8,ng/L,71458.2,Outlet,2937,g/day
+"Feb 14-15, 2017",2017,Main Liberty,TOC,1.55,mg/L as C,71458.2,Outlet,271,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Main Liberty,TSS,94.5,mg/L,71458.2,Outlet,16520,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Main Liberty,VSS,8,mg/L,71458.2,Outlet,1399,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Shag Slough below Stairsteps,Chloride- filtered,4,mg/L,30170.7,Outlet,295.3,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Shag Slough below Stairsteps,DOC,1.5,mg/L as C,30170.7,Outlet,110.7,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Shag Slough below Stairsteps,Iron- filtered,100,ug/L,30170.7,Outlet,7382,kg/day
+"Feb 14-15, 2017",2017,Shag Slough below Stairsteps,Manganese- filtered,5.04,ug/L,30170.7,Outlet,372,kg/day
+"Feb 14-15, 2017",2017,Shag Slough below Stairsteps,MeHg- filtered,0.072,ng/L,30170.7,Outlet,5.315,g/day
+"Feb 14-15, 2017",2017,Shag Slough below Stairsteps,MeHg- particulate,0.134,ng/L,30170.7,Outlet,9.891,g/day
+"Feb 14-15, 2017",2017,Shag Slough below Stairsteps,MeHg- total,0.206,ng/L,30170.7,Outlet,15.21,g/day
+"Feb 14-15, 2017",2017,Shag Slough below Stairsteps,POC,0,mg/L as C,30170.7,Outlet,0,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Shag Slough below Stairsteps,THg- filtered,2.3,ng/L,30170.7,Outlet,169.8,g/day
+"Feb 14-15, 2017",2017,Shag Slough below Stairsteps,THg- particulate,15.7,ng/L,30170.7,Outlet,1159,g/day
+"Feb 14-15, 2017",2017,Shag Slough below Stairsteps,THg- total,18,ng/L,30170.7,Outlet,1329,g/day
+"Feb 14-15, 2017",2017,Shag Slough below Stairsteps,TOC,1.5,mg/L as C,30170.7,Outlet,110.7,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Shag Slough below Stairsteps,TSS,101,mg/L,30170.7,Outlet,7455,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Shag Slough below Stairsteps,VSS,8,mg/L,30170.7,Outlet,590.5,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Toe Drain at 1/2 Lisbon,Chloride- filtered,1,mg/L,12261.6,Outlet,30,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Toe Drain at 1/2 Lisbon,DOC,1.6,mg/L as C,12261.6,Outlet,48,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Toe Drain at 1/2 Lisbon,Iron- filtered,107,ug/L,12261.6,Outlet,3210,kg/day
+"Feb 14-15, 2017",2017,Toe Drain at 1/2 Lisbon,Manganese- filtered,10.6,ug/L,12261.6,Outlet,318,kg/day
+"Feb 14-15, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- filtered,0.031,ng/L,12261.6,Outlet,0.93,g/day
+"Feb 14-15, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- particulate,0.054,ng/L,12261.6,Outlet,1.62,g/day
+"Feb 14-15, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- total,0.085,ng/L,12261.6,Outlet,2.55,g/day
+"Feb 14-15, 2017",2017,Toe Drain at 1/2 Lisbon,POC,0,mg/L as C,12261.6,Outlet,0,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Toe Drain at 1/2 Lisbon,THg- filtered,2,ng/L,12261.6,Outlet,60,g/day
+"Feb 14-15, 2017",2017,Toe Drain at 1/2 Lisbon,THg- particulate,11.3,ng/L,12261.6,Outlet,339,g/day
+"Feb 14-15, 2017",2017,Toe Drain at 1/2 Lisbon,THg- total,13.3,ng/L,12261.6,Outlet,399,g/day
+"Feb 14-15, 2017",2017,Toe Drain at 1/2 Lisbon,TOC,1.6,mg/L as C,12261.6,Outlet,48,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Toe Drain at 1/2 Lisbon,TSS,46,mg/L,12261.6,Outlet,1380,"1,000 kg/day"
+"Feb 14-15, 2017",2017,Toe Drain at 1/2 Lisbon,VSS,4,mg/L,12261.6,Outlet,120,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Below Liberty Island,Chloride- filtered,,,,Below Liberty,1281,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Below Liberty Island,DOC,,,,Below Liberty,504.7,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Below Liberty Island,Iron- filtered,,,,Below Liberty,26730,kg/day
+"Mar 1-2, 2017",2017,Below Liberty Island,Manganese- filtered,,,,Below Liberty,2029,kg/day
+"Mar 1-2, 2017",2017,Below Liberty Island,MeHg- filtered,,,,Below Liberty,17.16,g/day
+"Mar 1-2, 2017",2017,Below Liberty Island,MeHg- particulate,,,,Below Liberty,26.65,g/day
+"Mar 1-2, 2017",2017,Below Liberty Island,MeHg- total,,,,Below Liberty,43.81,g/day
+"Mar 1-2, 2017",2017,Below Liberty Island,POC,,,,Below Liberty,125.5,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Below Liberty Island,THg- filtered,,,,Below Liberty,494.4,g/day
+"Mar 1-2, 2017",2017,Below Liberty Island,THg- particulate,,,,Below Liberty,1904,g/day
+"Mar 1-2, 2017",2017,Below Liberty Island,THg- total,,,,Below Liberty,2398,g/day
+"Mar 1-2, 2017",2017,Below Liberty Island,TOC,,,,Below Liberty,630.2,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Below Liberty Island,TSS,,,,Below Liberty,9608,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Below Liberty Island,VSS,,,,Below Liberty,388.9,"1,000 kg/day"
+"Mar 1-2, 2017",2017,CCSB- Overflow Weir,Chloride- filtered,15.5,mg/L,5225.9,Inlet,198.2,"1,000 kg/day"
+"Mar 1-2, 2017",2017,CCSB- Overflow Weir,DOC,3.85,mg/L as C,5225.9,Inlet,49.22,"1,000 kg/day"
+"Mar 1-2, 2017",2017,CCSB- Overflow Weir,Iron- filtered,14,ug/L,5225.9,Inlet,179,kg/day
+"Mar 1-2, 2017",2017,CCSB- Overflow Weir,Manganese- filtered,2.55,ug/L,5225.9,Inlet,32.6,kg/day
+"Mar 1-2, 2017",2017,CCSB- Overflow Weir,MeHg- filtered,0.0425,ng/L,5225.9,Inlet,0.5434,g/day
+"Mar 1-2, 2017",2017,CCSB- Overflow Weir,MeHg- particulate,0.12,ng/L,5225.9,Inlet,1.534,g/day
+"Mar 1-2, 2017",2017,CCSB- Overflow Weir,MeHg- total,0.162,ng/L,5225.9,Inlet,2.071,g/day
+"Mar 1-2, 2017",2017,CCSB- Overflow Weir,POC,0.25,mg/L as C,5225.9,Inlet,3.196,"1,000 kg/day"
+"Mar 1-2, 2017",2017,CCSB- Overflow Weir,THg- filtered,1.58,ng/L,5225.9,Inlet,20.2,g/day
+"Mar 1-2, 2017",2017,CCSB- Overflow Weir,THg- particulate,12.5,ng/L,5225.9,Inlet,159.8,g/day
+"Mar 1-2, 2017",2017,CCSB- Overflow Weir,THg- total,14.1,ng/L,5225.9,Inlet,180.3,g/day
+"Mar 1-2, 2017",2017,CCSB- Overflow Weir,TOC,4.1,mg/L as C,5225.9,Inlet,52.42,"1,000 kg/day"
+"Mar 1-2, 2017",2017,CCSB- Overflow Weir,TSS,50.5,mg/L,5225.9,Inlet,645.7,"1,000 kg/day"
+"Mar 1-2, 2017",2017,CCSB- Overflow Weir,VSS,7,mg/L,5225.9,Inlet,89.5,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Fremont Weir,Chloride- filtered,2.67,mg/L,65183.8,Inlet,425.8,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Fremont Weir,DOC,1.02,mg/L as C,65183.8,Inlet,162.7,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Fremont Weir,Iron- filtered,122,ug/L,65183.8,Inlet,19460,kg/day
+"Mar 1-2, 2017",2017,Fremont Weir,Manganese- filtered,6.9,ug/L,65183.8,Inlet,1100,kg/day
+"Mar 1-2, 2017",2017,Fremont Weir,MeHg- filtered,0.03,ng/L,65183.8,Inlet,4.784,g/day
+"Mar 1-2, 2017",2017,Fremont Weir,MeHg- particulate,0.053,ng/L,65183.8,Inlet,8.452,g/day
+"Mar 1-2, 2017",2017,Fremont Weir,MeHg- total,0.083,ng/L,65183.8,Inlet,13.24,g/day
+"Mar 1-2, 2017",2017,Fremont Weir,POC,0.417,mg/L as C,65183.8,Inlet,66.5,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Fremont Weir,THg- filtered,1.82,ng/L,65183.8,Inlet,290.2,g/day
+"Mar 1-2, 2017",2017,Fremont Weir,THg- particulate,9.68,ng/L,65183.8,Inlet,1544,g/day
+"Mar 1-2, 2017",2017,Fremont Weir,THg- total,11.5,ng/L,65183.8,Inlet,1834,g/day
+"Mar 1-2, 2017",2017,Fremont Weir,TOC,1.43,mg/L as C,65183.8,Inlet,228.1,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Fremont Weir,TSS,61.4,mg/L,65183.8,Inlet,9792,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Fremont Weir,VSS,7.5,mg/L,65183.8,Inlet,1196,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Knights Landing Ridge Cut,Chloride- filtered,10,mg/L,6699.8,Inlet,163.9,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Knights Landing Ridge Cut,DOC,5.9,mg/L as C,6699.8,Inlet,96.71,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Knights Landing Ridge Cut,Iron- filtered,354,ug/L,6699.8,Inlet,5803,kg/day
+"Mar 1-2, 2017",2017,Knights Landing Ridge Cut,Manganese- filtered,12.6,ug/L,6699.8,Inlet,206.5,kg/day
+"Mar 1-2, 2017",2017,Knights Landing Ridge Cut,MeHg- filtered,0.169,ng/L,6699.8,Inlet,2.77,g/day
+"Mar 1-2, 2017",2017,Knights Landing Ridge Cut,MeHg- particulate,0.107,ng/L,6699.8,Inlet,1.754,g/day
+"Mar 1-2, 2017",2017,Knights Landing Ridge Cut,MeHg- total,0.276,ng/L,6699.8,Inlet,4.524,g/day
+"Mar 1-2, 2017",2017,Knights Landing Ridge Cut,POC,1.7,mg/L as C,6699.8,Inlet,27.87,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Knights Landing Ridge Cut,THg- filtered,1.5,ng/L,6699.8,Inlet,24.59,g/day
+"Mar 1-2, 2017",2017,Knights Landing Ridge Cut,THg- particulate,3.5,ng/L,6699.8,Inlet,57.37,g/day
+"Mar 1-2, 2017",2017,Knights Landing Ridge Cut,THg- total,5,ng/L,6699.8,Inlet,81.96,g/day
+"Mar 1-2, 2017",2017,Knights Landing Ridge Cut,TOC,7.6,mg/L as C,6699.8,Inlet,124.6,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Knights Landing Ridge Cut,TSS,35,mg/L,6699.8,Inlet,573.7,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Knights Landing Ridge Cut,VSS,6,mg/L,6699.8,Inlet,98.35,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Putah Creek at Mace Blvd,Chloride- filtered,6,mg/L,3693,Inlet,54.21,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Putah Creek at Mace Blvd,DOC,2.9,mg/L as C,3693,Inlet,26.2,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Putah Creek at Mace Blvd,Iron- filtered,26.6,ug/L,3693,Inlet,240.3,kg/day
+"Mar 1-2, 2017",2017,Putah Creek at Mace Blvd,Manganese- filtered,9.53,ug/L,3693,Inlet,86.11,kg/day
+"Mar 1-2, 2017",2017,Putah Creek at Mace Blvd,MeHg- filtered,0.05,ng/L,3693,Inlet,0.4518,g/day
+"Mar 1-2, 2017",2017,Putah Creek at Mace Blvd,MeHg- particulate,0.108,ng/L,3693,Inlet,0.9758,g/day
+"Mar 1-2, 2017",2017,Putah Creek at Mace Blvd,MeHg- total,0.158,ng/L,3693,Inlet,1.428,g/day
+"Mar 1-2, 2017",2017,Putah Creek at Mace Blvd,POC,0.2,mg/L as C,3693,Inlet,1.807,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Putah Creek at Mace Blvd,THg- filtered,1.3,ng/L,3693,Inlet,11.75,g/day
+"Mar 1-2, 2017",2017,Putah Creek at Mace Blvd,THg- particulate,7.75,ng/L,3693,Inlet,70.02,g/day
+"Mar 1-2, 2017",2017,Putah Creek at Mace Blvd,THg- total,9.05,ng/L,3693,Inlet,81.77,g/day
+"Mar 1-2, 2017",2017,Putah Creek at Mace Blvd,TOC,3.1,mg/L as C,3693,Inlet,28.01,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Putah Creek at Mace Blvd,TSS,34,mg/L,3693,Inlet,307.2,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Putah Creek at Mace Blvd,VSS,6,mg/L,3693,Inlet,54.21,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Sac River above the Sacramento Weir,Chloride- filtered,2,mg/L,19700,Inlet,96.4,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Sac River above the Sacramento Weir,DOC,1.6,mg/L as C,19700,Inlet,77.12,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Sac River above the Sacramento Weir,Iron- filtered,113,ug/L,19700,Inlet,5446,kg/day
+"Mar 1-2, 2017",2017,Sac River above the Sacramento Weir,Manganese- filtered,8.59,ug/L,19700,Inlet,414,kg/day
+"Mar 1-2, 2017",2017,Sac River above the Sacramento Weir,MeHg- filtered,0.06,ng/L,19700,Inlet,2.892,g/day
+"Mar 1-2, 2017",2017,Sac River above the Sacramento Weir,MeHg- particulate,0.096,ng/L,19700,Inlet,4.627,g/day
+"Mar 1-2, 2017",2017,Sac River above the Sacramento Weir,MeHg- total,0.156,ng/L,19700,Inlet,7.519,g/day
+"Mar 1-2, 2017",2017,Sac River above the Sacramento Weir,POC,0.6,mg/L as C,19700,Inlet,28.92,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Sac River above the Sacramento Weir,THg- filtered,3.4,ng/L,19700,Inlet,163.9,g/day
+"Mar 1-2, 2017",2017,Sac River above the Sacramento Weir,THg- particulate,26.7,ng/L,19700,Inlet,1287,g/day
+"Mar 1-2, 2017",2017,Sac River above the Sacramento Weir,THg- total,30.1,ng/L,19700,Inlet,1451,g/day
+"Mar 1-2, 2017",2017,Sac River above the Sacramento Weir,TOC,2.2,mg/L as C,19700,Inlet,106,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Sac River above the Sacramento Weir,TSS,77,mg/L,19700,Inlet,3711,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Sac River above the Sacramento Weir,VSS,9,mg/L,19700,Inlet,433.8,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Liberty Cut below Stairsteps,Chloride- filtered,4,mg/L,12402.3,Outlet,121.4,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Liberty Cut below Stairsteps,DOC,1.1,mg/L as C,12402.3,Outlet,33.38,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Liberty Cut below Stairsteps,Iron- filtered,104,ug/L,12402.3,Outlet,3156,kg/day
+"Mar 1-2, 2017",2017,Liberty Cut below Stairsteps,Manganese- filtered,7.06,ug/L,12402.3,Outlet,214.2,kg/day
+"Mar 1-2, 2017",2017,Liberty Cut below Stairsteps,MeHg- filtered,0.051,ng/L,12402.3,Outlet,1.548,g/day
+"Mar 1-2, 2017",2017,Liberty Cut below Stairsteps,MeHg- particulate,0.1,ng/L,12402.3,Outlet,3.034,g/day
+"Mar 1-2, 2017",2017,Liberty Cut below Stairsteps,MeHg- total,0.151,ng/L,12402.3,Outlet,4.582,g/day
+"Mar 1-2, 2017",2017,Liberty Cut below Stairsteps,POC,0.5,mg/L as C,12402.3,Outlet,15.17,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Liberty Cut below Stairsteps,THg- filtered,2.3,ng/L,12402.3,Outlet,69.79,g/day
+"Mar 1-2, 2017",2017,Liberty Cut below Stairsteps,THg- particulate,9.1,ng/L,12402.3,Outlet,276.1,g/day
+"Mar 1-2, 2017",2017,Liberty Cut below Stairsteps,THg- total,11.4,ng/L,12402.3,Outlet,345.9,g/day
+"Mar 1-2, 2017",2017,Liberty Cut below Stairsteps,TOC,1.6,mg/L as C,12402.3,Outlet,48.55,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Liberty Cut below Stairsteps,TSS,54,mg/L,12402.3,Outlet,1639,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Liberty Cut below Stairsteps,VSS,7,mg/L,12402.3,Outlet,212.4,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Little Holland,Chloride- filtered,3.5,mg/L,35116.6,Outlet,300.7,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Little Holland,DOC,1.35,mg/L as C,35116.6,Outlet,116,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Little Holland,Iron- filtered,126,ug/L,35116.6,Outlet,10830,kg/day
+"Mar 1-2, 2017",2017,Little Holland,Manganese- filtered,7.3,ug/L,35116.6,Outlet,627.2,kg/day
+"Mar 1-2, 2017",2017,Little Holland,MeHg- filtered,0.0615,ng/L,35116.6,Outlet,5.284,g/day
+"Mar 1-2, 2017",2017,Little Holland,MeHg- particulate,0.0765,ng/L,35116.6,Outlet,6.573,g/day
+"Mar 1-2, 2017",2017,Little Holland,MeHg- total,0.138,ng/L,35116.6,Outlet,11.86,g/day
+"Mar 1-2, 2017",2017,Little Holland,POC,0.25,mg/L as C,35116.6,Outlet,21.48,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Little Holland,THg- filtered,2.02,ng/L,35116.6,Outlet,173.6,g/day
+"Mar 1-2, 2017",2017,Little Holland,THg- particulate,9.38,ng/L,35116.6,Outlet,805.9,g/day
+"Mar 1-2, 2017",2017,Little Holland,THg- total,11.4,ng/L,35116.6,Outlet,979.4,g/day
+"Mar 1-2, 2017",2017,Little Holland,TOC,1.6,mg/L as C,35116.6,Outlet,137.5,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Little Holland,TSS,46.8,mg/L,35116.6,Outlet,4021,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Little Holland,VSS,6,mg/L,35116.6,Outlet,515.5,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Main Liberty,Chloride- filtered,4,mg/L,18963.7,Outlet,185.6,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Main Liberty,DOC,1.5,mg/L as C,18963.7,Outlet,69.59,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Main Liberty,Iron- filtered,124,ug/L,18963.7,Outlet,5753,kg/day
+"Mar 1-2, 2017",2017,Main Liberty,Manganese- filtered,8.08,ug/L,18963.7,Outlet,374.9,kg/day
+"Mar 1-2, 2017",2017,Main Liberty,MeHg- filtered,0.066,ng/L,18963.7,Outlet,3.062,g/day
+"Mar 1-2, 2017",2017,Main Liberty,MeHg- particulate,0.108,ng/L,18963.7,Outlet,5.011,g/day
+"Mar 1-2, 2017",2017,Main Liberty,MeHg- total,0.174,ng/L,18963.7,Outlet,8.073,g/day
+"Mar 1-2, 2017",2017,Main Liberty,POC,0.55,mg/L as C,18963.7,Outlet,25.52,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Main Liberty,THg- filtered,2.7,ng/L,18963.7,Outlet,125.3,g/day
+"Mar 1-2, 2017",2017,Main Liberty,THg- particulate,8.55,ng/L,18963.7,Outlet,396.7,g/day
+"Mar 1-2, 2017",2017,Main Liberty,THg- total,11.2,ng/L,18963.7,Outlet,519.6,g/day
+"Mar 1-2, 2017",2017,Main Liberty,TOC,2.05,mg/L as C,18963.7,Outlet,95.11,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Main Liberty,TSS,56.5,mg/L,18963.7,Outlet,2621,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Main Liberty,VSS,7,mg/L,18963.7,Outlet,324.8,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Shag Slough below Stairsteps,Chloride- filtered,4,mg/L,24044.6,Outlet,235.3,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Shag Slough below Stairsteps,DOC,1.9,mg/L as C,24044.6,Outlet,111.8,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Shag Slough below Stairsteps,Iron- filtered,145,ug/L,24044.6,Outlet,8530,kg/day
+"Mar 1-2, 2017",2017,Shag Slough below Stairsteps,Manganese- filtered,9.11,ug/L,24044.6,Outlet,535.9,kg/day
+"Mar 1-2, 2017",2017,Shag Slough below Stairsteps,MeHg- filtered,0.081,ng/L,24044.6,Outlet,4.765,g/day
+"Mar 1-2, 2017",2017,Shag Slough below Stairsteps,MeHg- particulate,0.116,ng/L,24044.6,Outlet,6.824,g/day
+"Mar 1-2, 2017",2017,Shag Slough below Stairsteps,MeHg- total,0.197,ng/L,24044.6,Outlet,11.59,g/day
+"Mar 1-2, 2017",2017,Shag Slough below Stairsteps,POC,0.6,mg/L as C,24044.6,Outlet,35.3,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Shag Slough below Stairsteps,THg- filtered,3.1,ng/L,24044.6,Outlet,182.4,g/day
+"Mar 1-2, 2017",2017,Shag Slough below Stairsteps,THg- particulate,8,ng/L,24044.6,Outlet,470.6,g/day
+"Mar 1-2, 2017",2017,Shag Slough below Stairsteps,THg- total,11.1,ng/L,24044.6,Outlet,653,g/day
+"Mar 1-2, 2017",2017,Shag Slough below Stairsteps,TOC,2.5,mg/L as C,24044.6,Outlet,147.1,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Shag Slough below Stairsteps,TSS,59,mg/L,24044.6,Outlet,3471,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Shag Slough below Stairsteps,VSS,7,mg/L,24044.6,Outlet,411.8,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Toe Drain at 1/2 Lisbon,Chloride- filtered,3,mg/L,9975.2,Outlet,73.22,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Toe Drain at 1/2 Lisbon,DOC,1.6,mg/L as C,9975.2,Outlet,39.05,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Toe Drain at 1/2 Lisbon,Iron- filtered,147,ug/L,9975.2,Outlet,3588,kg/day
+"Mar 1-2, 2017",2017,Toe Drain at 1/2 Lisbon,Manganese- filtered,7.55,ug/L,9975.2,Outlet,184.3,kg/day
+"Mar 1-2, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- filtered,0.072,ng/L,9975.2,Outlet,1.757,g/day
+"Mar 1-2, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- particulate,0.053,ng/L,9975.2,Outlet,1.293,g/day
+"Mar 1-2, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- total,0.125,ng/L,9975.2,Outlet,3.051,g/day
+"Mar 1-2, 2017",2017,Toe Drain at 1/2 Lisbon,POC,0,mg/L as C,9975.2,Outlet,0,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Toe Drain at 1/2 Lisbon,THg- filtered,1.75,ng/L,9975.2,Outlet,42.71,g/day
+"Mar 1-2, 2017",2017,Toe Drain at 1/2 Lisbon,THg- particulate,9.65,ng/L,9975.2,Outlet,235.5,g/day
+"Mar 1-2, 2017",2017,Toe Drain at 1/2 Lisbon,THg- total,11.4,ng/L,9975.2,Outlet,278.2,g/day
+"Mar 1-2, 2017",2017,Toe Drain at 1/2 Lisbon,TOC,1.6,mg/L as C,9975.2,Outlet,39.05,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Toe Drain at 1/2 Lisbon,TSS,39.5,mg/L,9975.2,Outlet,964,"1,000 kg/day"
+"Mar 1-2, 2017",2017,Toe Drain at 1/2 Lisbon,VSS,5,mg/L,9975.2,Outlet,122,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Below Liberty Island,Chloride- filtered,,,,Below Liberty,78.37,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Below Liberty Island,DOC,,,,Below Liberty,26.09,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Below Liberty Island,Iron- filtered,,,,Below Liberty,498.8,kg/day
+"Mar 15-16, 2017",2017,Below Liberty Island,Manganese- filtered,,,,Below Liberty,10.05,kg/day
+"Mar 15-16, 2017",2017,Below Liberty Island,MeHg- filtered,,,,Below Liberty,0.7307,g/day
+"Mar 15-16, 2017",2017,Below Liberty Island,MeHg- particulate,,,,Below Liberty,0.8229,g/day
+"Mar 15-16, 2017",2017,Below Liberty Island,MeHg- total,,,,Below Liberty,1.553,g/day
+"Mar 15-16, 2017",2017,Below Liberty Island,POC,,,,Below Liberty,6.508,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Below Liberty Island,THg- filtered,,,,Below Liberty,16.98,g/day
+"Mar 15-16, 2017",2017,Below Liberty Island,THg- particulate,,,,Below Liberty,16.17,g/day
+"Mar 15-16, 2017",2017,Below Liberty Island,THg- total,,,,Below Liberty,33.09,g/day
+"Mar 15-16, 2017",2017,Below Liberty Island,TOC,,,,Below Liberty,32.59,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Below Liberty Island,TSS,,,,Below Liberty,119.4,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Below Liberty Island,VSS,,,,Below Liberty,13.18,"1,000 kg/day"
+"Mar 15-16, 2017",2017,CCSB- Overflow Weir,Chloride- filtered,15,mg/L,2931.1,Inlet,107.6,"1,000 kg/day"
+"Mar 15-16, 2017",2017,CCSB- Overflow Weir,DOC,3.95,mg/L as C,2931.1,Inlet,28.33,"1,000 kg/day"
+"Mar 15-16, 2017",2017,CCSB- Overflow Weir,Iron- filtered,10.9,ug/L,2931.1,Inlet,78.17,kg/day
+"Mar 15-16, 2017",2017,CCSB- Overflow Weir,Manganese- filtered,3.66,ug/L,2931.1,Inlet,26.25,kg/day
+"Mar 15-16, 2017",2017,CCSB- Overflow Weir,MeHg- filtered,0.0605,ng/L,2931.1,Inlet,0.4339,g/day
+"Mar 15-16, 2017",2017,CCSB- Overflow Weir,MeHg- particulate,0.118,ng/L,2931.1,Inlet,0.8462,g/day
+"Mar 15-16, 2017",2017,CCSB- Overflow Weir,MeHg- total,0.179,ng/L,2931.1,Inlet,1.284,g/day
+"Mar 15-16, 2017",2017,CCSB- Overflow Weir,POC,0.075,mg/L as C,2931.1,Inlet,0.5378,"1,000 kg/day"
+"Mar 15-16, 2017",2017,CCSB- Overflow Weir,THg- filtered,1.4,ng/L,2931.1,Inlet,10.04,g/day
+"Mar 15-16, 2017",2017,CCSB- Overflow Weir,THg- particulate,3.95,ng/L,2931.1,Inlet,28.33,g/day
+"Mar 15-16, 2017",2017,CCSB- Overflow Weir,THg- total,5.35,ng/L,2931.1,Inlet,38.37,g/day
+"Mar 15-16, 2017",2017,CCSB- Overflow Weir,TOC,4.03,mg/L as C,2931.1,Inlet,28.9,"1,000 kg/day"
+"Mar 15-16, 2017",2017,CCSB- Overflow Weir,TSS,13.5,mg/L,2931.1,Inlet,96.81,"1,000 kg/day"
+"Mar 15-16, 2017",2017,CCSB- Overflow Weir,VSS,1,mg/L,2931.1,Inlet,7.171,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Knights Landing Ridge Cut,Chloride- filtered,31,mg/L,1282.4,Inlet,97.26,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Knights Landing Ridge Cut,DOC,8.1,mg/L as C,1282.4,Inlet,25.41,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Knights Landing Ridge Cut,Iron- filtered,73.5,ug/L,1282.4,Inlet,230.6,kg/day
+"Mar 15-16, 2017",2017,Knights Landing Ridge Cut,Manganese- filtered,44.1,ug/L,1282.4,Inlet,138.4,kg/day
+"Mar 15-16, 2017",2017,Knights Landing Ridge Cut,MeHg- filtered,0.172,ng/L,1282.4,Inlet,0.5397,g/day
+"Mar 15-16, 2017",2017,Knights Landing Ridge Cut,MeHg- particulate,0.305,ng/L,1282.4,Inlet,0.9569,g/day
+"Mar 15-16, 2017",2017,Knights Landing Ridge Cut,MeHg- total,0.477,ng/L,1282.4,Inlet,1.497,g/day
+"Mar 15-16, 2017",2017,Knights Landing Ridge Cut,POC,0.5,mg/L as C,1282.4,Inlet,1.569,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Knights Landing Ridge Cut,THg- filtered,1,ng/L,1282.4,Inlet,3.138,g/day
+"Mar 15-16, 2017",2017,Knights Landing Ridge Cut,THg- particulate,2.1,ng/L,1282.4,Inlet,6.589,g/day
+"Mar 15-16, 2017",2017,Knights Landing Ridge Cut,THg- total,3.1,ng/L,1282.4,Inlet,9.726,g/day
+"Mar 15-16, 2017",2017,Knights Landing Ridge Cut,TOC,8.6,mg/L as C,1282.4,Inlet,26.98,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Knights Landing Ridge Cut,TSS,39,mg/L,1282.4,Inlet,122.4,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Knights Landing Ridge Cut,VSS,4,mg/L,1282.4,Inlet,12.55,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Putah Creek at Mace Blvd,Chloride- filtered,7,mg/L,1125,Inlet,19.27,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Putah Creek at Mace Blvd,DOC,3.1,mg/L as C,1125,Inlet,8.532,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Putah Creek at Mace Blvd,Iron- filtered,9.5,ug/L,1125,Inlet,26.15,kg/day
+"Mar 15-16, 2017",2017,Putah Creek at Mace Blvd,Manganese- filtered,6.28,ug/L,1125,Inlet,17.29,kg/day
+"Mar 15-16, 2017",2017,Putah Creek at Mace Blvd,MeHg- filtered,0.06,ng/L,1125,Inlet,0.1651,g/day
+"Mar 15-16, 2017",2017,Putah Creek at Mace Blvd,MeHg- particulate,0.102,ng/L,1125,Inlet,0.2807,g/day
+"Mar 15-16, 2017",2017,Putah Creek at Mace Blvd,MeHg- total,0.162,ng/L,1125,Inlet,0.4459,g/day
+"Mar 15-16, 2017",2017,Putah Creek at Mace Blvd,POC,0.1,mg/L as C,1125,Inlet,0.2752,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Putah Creek at Mace Blvd,THg- filtered,1.2,ng/L,1125,Inlet,3.303,g/day
+"Mar 15-16, 2017",2017,Putah Creek at Mace Blvd,THg- particulate,5.8,ng/L,1125,Inlet,15.96,g/day
+"Mar 15-16, 2017",2017,Putah Creek at Mace Blvd,THg- total,7,ng/L,1125,Inlet,19.27,g/day
+"Mar 15-16, 2017",2017,Putah Creek at Mace Blvd,TOC,3.2,mg/L as C,1125,Inlet,8.808,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Putah Creek at Mace Blvd,TSS,26,mg/L,1125,Inlet,71.56,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Putah Creek at Mace Blvd,VSS,3,mg/L,1125,Inlet,8.257,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Liberty Cut below Stairsteps,Chloride- filtered,16,mg/L,1132.5,Outlet,44.33,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Liberty Cut below Stairsteps,DOC,5.1,mg/L as C,1132.5,Outlet,14.13,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Liberty Cut below Stairsteps,Iron- filtered,13.2,ug/L,1132.5,Outlet,36.57,kg/day
+"Mar 15-16, 2017",2017,Liberty Cut below Stairsteps,Manganese- filtered,16.4,ug/L,1132.5,Outlet,45.44,kg/day
+"Mar 15-16, 2017",2017,Liberty Cut below Stairsteps,MeHg- filtered,0.092,ng/L,1132.5,Outlet,0.2549,g/day
+"Mar 15-16, 2017",2017,Liberty Cut below Stairsteps,MeHg- particulate,0.434,ng/L,1132.5,Outlet,1.203,g/day
+"Mar 15-16, 2017",2017,Liberty Cut below Stairsteps,MeHg- total,0.526,ng/L,1132.5,Outlet,1.457,g/day
+"Mar 15-16, 2017",2017,Liberty Cut below Stairsteps,POC,1,mg/L as C,1132.5,Outlet,2.771,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Liberty Cut below Stairsteps,THg- filtered,1,ng/L,1132.5,Outlet,2.771,g/day
+"Mar 15-16, 2017",2017,Liberty Cut below Stairsteps,THg- particulate,4.5,ng/L,1132.5,Outlet,12.47,g/day
+"Mar 15-16, 2017",2017,Liberty Cut below Stairsteps,THg- total,5.5,ng/L,1132.5,Outlet,15.24,g/day
+"Mar 15-16, 2017",2017,Liberty Cut below Stairsteps,TOC,6.1,mg/L as C,1132.5,Outlet,16.9,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Liberty Cut below Stairsteps,TSS,32,mg/L,1132.5,Outlet,88.66,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Liberty Cut below Stairsteps,VSS,4,mg/L,1132.5,Outlet,11.08,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Little Holland,Chloride- filtered,17,mg/L,2367.3,Outlet,98.46,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Little Holland,DOC,4.97,mg/L as C,2367.3,Outlet,28.79,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Little Holland,Iron- filtered,15.7,ug/L,2367.3,Outlet,90.93,kg/day
+"Mar 15-16, 2017",2017,Little Holland,Manganese- filtered,12.6,ug/L,2367.3,Outlet,72.98,kg/day
+"Mar 15-16, 2017",2017,Little Holland,MeHg- filtered,0.0888,ng/L,2367.3,Outlet,0.5143,g/day
+"Mar 15-16, 2017",2017,Little Holland,MeHg- particulate,0.403,ng/L,2367.3,Outlet,2.334,g/day
+"Mar 15-16, 2017",2017,Little Holland,MeHg- total,0.492,ng/L,2367.3,Outlet,2.85,g/day
+"Mar 15-16, 2017",2017,Little Holland,POC,1.02,mg/L as C,2367.3,Outlet,5.908,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Little Holland,THg- filtered,1.05,ng/L,2367.3,Outlet,6.081,g/day
+"Mar 15-16, 2017",2017,Little Holland,THg- particulate,4.62,ng/L,2367.3,Outlet,26.76,g/day
+"Mar 15-16, 2017",2017,Little Holland,THg- total,5.68,ng/L,2367.3,Outlet,32.9,g/day
+"Mar 15-16, 2017",2017,Little Holland,TOC,6,mg/L as C,2367.3,Outlet,34.75,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Little Holland,TSS,31.6,mg/L,2367.3,Outlet,183,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Little Holland,VSS,4.25,mg/L,2367.3,Outlet,24.62,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Main Liberty,Chloride- filtered,15.5,mg/L,65.8,Outlet,2.495,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Main Liberty,DOC,5.15,mg/L as C,65.8,Outlet,0.8291,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Main Liberty,Iron- filtered,13.5,ug/L,65.8,Outlet,2.173,kg/day
+"Mar 15-16, 2017",2017,Main Liberty,Manganese- filtered,17.5,ug/L,65.8,Outlet,2.817,kg/day
+"Mar 15-16, 2017",2017,Main Liberty,MeHg- filtered,0.116,ng/L,65.8,Outlet,0.01867,g/day
+"Mar 15-16, 2017",2017,Main Liberty,MeHg- particulate,0.45,ng/L,65.8,Outlet,0.07244,g/day
+"Mar 15-16, 2017",2017,Main Liberty,MeHg- total,0.566,ng/L,65.8,Outlet,0.09112,g/day
+"Mar 15-16, 2017",2017,Main Liberty,POC,0.8,mg/L as C,65.8,Outlet,0.1288,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Main Liberty,THg- filtered,1.05,ng/L,65.8,Outlet,0.169,g/day
+"Mar 15-16, 2017",2017,Main Liberty,THg- particulate,3.6,ng/L,65.8,Outlet,0.5795,g/day
+"Mar 15-16, 2017",2017,Main Liberty,THg- total,4.65,ng/L,65.8,Outlet,0.7486,g/day
+"Mar 15-16, 2017",2017,Main Liberty,TOC,5.95,mg/L as C,65.8,Outlet,0.9579,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Main Liberty,TSS,25,mg/L,65.8,Outlet,4.025,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Main Liberty,VSS,3.5,mg/L,65.8,Outlet,0.5634,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Shag Slough below Stairsteps,Chloride- filtered,15,mg/L,374.8,Outlet,13.75,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Shag Slough below Stairsteps,DOC,5.2,mg/L as C,374.8,Outlet,4.768,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Shag Slough below Stairsteps,Iron- filtered,13.8,ug/L,374.8,Outlet,12.65,kg/day
+"Mar 15-16, 2017",2017,Shag Slough below Stairsteps,Manganese- filtered,18.7,ug/L,374.8,Outlet,17.15,kg/day
+"Mar 15-16, 2017",2017,Shag Slough below Stairsteps,MeHg- filtered,0.139,ng/L,374.8,Outlet,0.1275,g/day
+"Mar 15-16, 2017",2017,Shag Slough below Stairsteps,MeHg- particulate,0.467,ng/L,374.8,Outlet,0.4282,g/day
+"Mar 15-16, 2017",2017,Shag Slough below Stairsteps,MeHg- total,0.606,ng/L,374.8,Outlet,0.5557,g/day
+"Mar 15-16, 2017",2017,Shag Slough below Stairsteps,POC,0.6,mg/L as C,374.8,Outlet,0.5502,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Shag Slough below Stairsteps,THg- filtered,1.1,ng/L,374.8,Outlet,1.009,g/day
+"Mar 15-16, 2017",2017,Shag Slough below Stairsteps,THg- particulate,2.7,ng/L,374.8,Outlet,2.476,g/day
+"Mar 15-16, 2017",2017,Shag Slough below Stairsteps,THg- total,3.8,ng/L,374.8,Outlet,3.485,g/day
+"Mar 15-16, 2017",2017,Shag Slough below Stairsteps,TOC,5.8,mg/L as C,374.8,Outlet,5.318,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Shag Slough below Stairsteps,TSS,18,mg/L,374.8,Outlet,16.51,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Shag Slough below Stairsteps,VSS,3,mg/L,374.8,Outlet,2.751,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Toe Drain at 1/2 Lisbon,Chloride- filtered,18,mg/L,1398.1,Outlet,61.57,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Toe Drain at 1/2 Lisbon,DOC,4.85,mg/L as C,1398.1,Outlet,16.59,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Toe Drain at 1/2 Lisbon,Iron- filtered,18.2,ug/L,1398.1,Outlet,62.25,kg/day
+"Mar 15-16, 2017",2017,Toe Drain at 1/2 Lisbon,Manganese- filtered,8.79,ug/L,1398.1,Outlet,30.07,kg/day
+"Mar 15-16, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- filtered,0.0855,ng/L,1398.1,Outlet,0.2925,g/day
+"Mar 15-16, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- particulate,0.372,ng/L,1398.1,Outlet,1.272,g/day
+"Mar 15-16, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- total,0.457,ng/L,1398.1,Outlet,1.563,g/day
+"Mar 15-16, 2017",2017,Toe Drain at 1/2 Lisbon,POC,1.05,mg/L as C,1398.1,Outlet,3.592,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Toe Drain at 1/2 Lisbon,THg- filtered,1.1,ng/L,1398.1,Outlet,3.763,g/day
+"Mar 15-16, 2017",2017,Toe Drain at 1/2 Lisbon,THg- particulate,4.75,ng/L,1398.1,Outlet,16.25,g/day
+"Mar 15-16, 2017",2017,Toe Drain at 1/2 Lisbon,THg- total,5.85,ng/L,1398.1,Outlet,20.01,g/day
+"Mar 15-16, 2017",2017,Toe Drain at 1/2 Lisbon,TOC,5.9,mg/L as C,1398.1,Outlet,20.18,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Toe Drain at 1/2 Lisbon,TSS,31.2,mg/L,1398.1,Outlet,106.7,"1,000 kg/day"
+"Mar 15-16, 2017",2017,Toe Drain at 1/2 Lisbon,VSS,4.5,mg/L,1398.1,Outlet,15.39,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Below Liberty Island,Chloride- filtered,,,,Below Liberty,883,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Below Liberty Island,DOC,,,,Below Liberty,213.7,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Below Liberty Island,Iron- filtered,,,,Below Liberty,5134,kg/day
+"Mar 28-29, 2017",2017,Below Liberty Island,Manganese- filtered,,,,Below Liberty,206.7,kg/day
+"Mar 28-29, 2017",2017,Below Liberty Island,MeHg- filtered,,,,Below Liberty,9.315,g/day
+"Mar 28-29, 2017",2017,Below Liberty Island,MeHg- particulate,,,,Below Liberty,12.08,g/day
+"Mar 28-29, 2017",2017,Below Liberty Island,MeHg- total,,,,Below Liberty,21.4,g/day
+"Mar 28-29, 2017",2017,Below Liberty Island,POC,,,,Below Liberty,0,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Below Liberty Island,THg- filtered,,,,Below Liberty,157.8,g/day
+"Mar 28-29, 2017",2017,Below Liberty Island,THg- particulate,,,,Below Liberty,275.6,g/day
+"Mar 28-29, 2017",2017,Below Liberty Island,THg- total,,,,Below Liberty,433.4,g/day
+"Mar 28-29, 2017",2017,Below Liberty Island,TOC,,,,Below Liberty,213.7,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Below Liberty Island,TSS,,,,Below Liberty,1881,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Below Liberty Island,VSS,,,,Below Liberty,349.7,"1,000 kg/day"
+"Mar 28-29, 2017",2017,CCSB- Low Flow Channel,Chloride- filtered,20,mg/L,230.7,Inlet,11.29,"1,000 kg/day"
+"Mar 28-29, 2017",2017,CCSB- Low Flow Channel,DOC,3.1,mg/L as C,230.7,Inlet,1.75,"1,000 kg/day"
+"Mar 28-29, 2017",2017,CCSB- Low Flow Channel,Iron- filtered,7.31,ug/L,230.7,Inlet,4.126,kg/day
+"Mar 28-29, 2017",2017,CCSB- Low Flow Channel,Manganese- filtered,8.8,ug/L,230.7,Inlet,4.967,kg/day
+"Mar 28-29, 2017",2017,CCSB- Low Flow Channel,MeHg- filtered,0.064,ng/L,230.7,Inlet,0.03612,g/day
+"Mar 28-29, 2017",2017,CCSB- Low Flow Channel,MeHg- particulate,0.102,ng/L,230.7,Inlet,0.05757,g/day
+"Mar 28-29, 2017",2017,CCSB- Low Flow Channel,MeHg- total,0.166,ng/L,230.7,Inlet,0.0937,g/day
+"Mar 28-29, 2017",2017,CCSB- Low Flow Channel,POC,0.1,mg/L as C,230.7,Inlet,0.05644,"1,000 kg/day"
+"Mar 28-29, 2017",2017,CCSB- Low Flow Channel,THg- filtered,1.2,ng/L,230.7,Inlet,0.6773,g/day
+"Mar 28-29, 2017",2017,CCSB- Low Flow Channel,THg- particulate,5.1,ng/L,230.7,Inlet,2.879,g/day
+"Mar 28-29, 2017",2017,CCSB- Low Flow Channel,THg- total,6.3,ng/L,230.7,Inlet,3.556,g/day
+"Mar 28-29, 2017",2017,CCSB- Low Flow Channel,TOC,3.2,mg/L as C,230.7,Inlet,1.806,"1,000 kg/day"
+"Mar 28-29, 2017",2017,CCSB- Low Flow Channel,TSS,22,mg/L,230.7,Inlet,12.42,"1,000 kg/day"
+"Mar 28-29, 2017",2017,CCSB- Low Flow Channel,VSS,3,mg/L,230.7,Inlet,1.693,"1,000 kg/day"
+"Mar 28-29, 2017",2017,CCSB- Overflow Weir,Chloride- filtered,20.5,mg/L,1068.7,Inlet,53.6,"1,000 kg/day"
+"Mar 28-29, 2017",2017,CCSB- Overflow Weir,DOC,3.48,mg/L as C,1068.7,Inlet,9.099,"1,000 kg/day"
+"Mar 28-29, 2017",2017,CCSB- Overflow Weir,Iron- filtered,6.29,ug/L,1068.7,Inlet,16.45,kg/day
+"Mar 28-29, 2017",2017,CCSB- Overflow Weir,Manganese- filtered,11.1,ug/L,1068.7,Inlet,29.02,kg/day
+"Mar 28-29, 2017",2017,CCSB- Overflow Weir,MeHg- filtered,0.0575,ng/L,1068.7,Inlet,0.1503,g/day
+"Mar 28-29, 2017",2017,CCSB- Overflow Weir,MeHg- particulate,0.174,ng/L,1068.7,Inlet,0.455,g/day
+"Mar 28-29, 2017",2017,CCSB- Overflow Weir,MeHg- total,0.231,ng/L,1068.7,Inlet,0.604,g/day
+"Mar 28-29, 2017",2017,CCSB- Overflow Weir,POC,0.65,mg/L as C,1068.7,Inlet,1.7,"1,000 kg/day"
+"Mar 28-29, 2017",2017,CCSB- Overflow Weir,THg- filtered,1.3,ng/L,1068.7,Inlet,3.399,g/day
+"Mar 28-29, 2017",2017,CCSB- Overflow Weir,THg- particulate,12.8,ng/L,1068.7,Inlet,33.47,g/day
+"Mar 28-29, 2017",2017,CCSB- Overflow Weir,THg- total,14.1,ng/L,1068.7,Inlet,36.87,g/day
+"Mar 28-29, 2017",2017,CCSB- Overflow Weir,TOC,4.12,mg/L as C,1068.7,Inlet,10.77,"1,000 kg/day"
+"Mar 28-29, 2017",2017,CCSB- Overflow Weir,TSS,46,mg/L,1068.7,Inlet,120.3,"1,000 kg/day"
+"Mar 28-29, 2017",2017,CCSB- Overflow Weir,VSS,4,mg/L,1068.7,Inlet,10.46,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Fremont Weir,Chloride- filtered,4,mg/L,32533.3,Inlet,318.4,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Fremont Weir,DOC,1.55,mg/L as C,32533.3,Inlet,123.4,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Fremont Weir,Iron- filtered,83.4,ug/L,32533.3,Inlet,6638,kg/day
+"Mar 28-29, 2017",2017,Fremont Weir,Manganese- filtered,7.91,ug/L,32533.3,Inlet,629.6,kg/day
+"Mar 28-29, 2017",2017,Fremont Weir,MeHg- filtered,0.037,ng/L,32533.3,Inlet,2.945,g/day
+"Mar 28-29, 2017",2017,Fremont Weir,MeHg- particulate,0.0442,ng/L,32533.3,Inlet,3.518,g/day
+"Mar 28-29, 2017",2017,Fremont Weir,MeHg- total,0.0812,ng/L,32533.3,Inlet,6.463,g/day
+"Mar 28-29, 2017",2017,Fremont Weir,POC,0.375,mg/L as C,32533.3,Inlet,29.85,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Fremont Weir,THg- filtered,1.7,ng/L,32533.3,Inlet,135.3,g/day
+"Mar 28-29, 2017",2017,Fremont Weir,THg- particulate,6.25,ng/L,32533.3,Inlet,497.5,g/day
+"Mar 28-29, 2017",2017,Fremont Weir,THg- total,7.95,ng/L,32533.3,Inlet,632.8,g/day
+"Mar 28-29, 2017",2017,Fremont Weir,TOC,1.92,mg/L as C,32533.3,Inlet,152.8,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Fremont Weir,TSS,53.8,mg/L,32533.3,Inlet,4282,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Fremont Weir,VSS,4.5,mg/L,32533.3,Inlet,358.2,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Knights Landing Ridge Cut,Chloride- filtered,40,mg/L,675.7,Inlet,66.13,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Knights Landing Ridge Cut,DOC,7,mg/L as C,675.7,Inlet,11.57,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Knights Landing Ridge Cut,Iron- filtered,39.7,ug/L,675.7,Inlet,65.63,kg/day
+"Mar 28-29, 2017",2017,Knights Landing Ridge Cut,Manganese- filtered,54.4,ug/L,675.7,Inlet,89.93,kg/day
+"Mar 28-29, 2017",2017,Knights Landing Ridge Cut,MeHg- filtered,0.089,ng/L,675.7,Inlet,0.1471,g/day
+"Mar 28-29, 2017",2017,Knights Landing Ridge Cut,MeHg- particulate,0.1,ng/L,675.7,Inlet,0.1653,g/day
+"Mar 28-29, 2017",2017,Knights Landing Ridge Cut,MeHg- total,0.189,ng/L,675.7,Inlet,0.3124,g/day
+"Mar 28-29, 2017",2017,Knights Landing Ridge Cut,POC,0.5,mg/L as C,675.7,Inlet,0.8266,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Knights Landing Ridge Cut,THg- filtered,0.7,ng/L,675.7,Inlet,1.157,g/day
+"Mar 28-29, 2017",2017,Knights Landing Ridge Cut,THg- particulate,2.1,ng/L,675.7,Inlet,3.472,g/day
+"Mar 28-29, 2017",2017,Knights Landing Ridge Cut,THg- total,2.8,ng/L,675.7,Inlet,4.629,g/day
+"Mar 28-29, 2017",2017,Knights Landing Ridge Cut,TOC,7.5,mg/L as C,675.7,Inlet,12.4,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Knights Landing Ridge Cut,TSS,40,mg/L,675.7,Inlet,66.13,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Knights Landing Ridge Cut,VSS,4,mg/L,675.7,Inlet,6.613,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Putah Creek at Mace Blvd,Chloride- filtered,6,mg/L,1235,Inlet,18.13,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Putah Creek at Mace Blvd,DOC,2.7,mg/L as C,1235,Inlet,8.158,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Putah Creek at Mace Blvd,Iron- filtered,0.89,ug/L,1235,Inlet,2.689,kg/day
+"Mar 28-29, 2017",2017,Putah Creek at Mace Blvd,Manganese- filtered,0.44,ug/L,1235,Inlet,1.329,kg/day
+"Mar 28-29, 2017",2017,Putah Creek at Mace Blvd,MeHg- filtered,0.049,ng/L,1235,Inlet,0.1481,g/day
+"Mar 28-29, 2017",2017,Putah Creek at Mace Blvd,MeHg- particulate,0.112,ng/L,1235,Inlet,0.3384,g/day
+"Mar 28-29, 2017",2017,Putah Creek at Mace Blvd,MeHg- total,0.161,ng/L,1235,Inlet,0.4865,g/day
+"Mar 28-29, 2017",2017,Putah Creek at Mace Blvd,POC,0.2,mg/L as C,1235,Inlet,0.6043,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Putah Creek at Mace Blvd,THg- filtered,1.5,ng/L,1235,Inlet,4.532,g/day
+"Mar 28-29, 2017",2017,Putah Creek at Mace Blvd,THg- particulate,3.8,ng/L,1235,Inlet,11.48,g/day
+"Mar 28-29, 2017",2017,Putah Creek at Mace Blvd,THg- total,5.3,ng/L,1235,Inlet,16.01,g/day
+"Mar 28-29, 2017",2017,Putah Creek at Mace Blvd,TOC,2.9,mg/L as C,1235,Inlet,8.762,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Putah Creek at Mace Blvd,TSS,26,mg/L,1235,Inlet,78.56,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Putah Creek at Mace Blvd,VSS,3,mg/L,1235,Inlet,9.065,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Liberty Cut below Stairsteps,Chloride- filtered,4,mg/L,7193.8,Outlet,70.4,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Liberty Cut below Stairsteps,DOC,1.8,mg/L as C,7193.8,Outlet,31.68,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Liberty Cut below Stairsteps,Iron- filtered,97.7,ug/L,7193.8,Outlet,1720,kg/day
+"Mar 28-29, 2017",2017,Liberty Cut below Stairsteps,Manganese- filtered,7.56,ug/L,7193.8,Outlet,133.1,kg/day
+"Mar 28-29, 2017",2017,Liberty Cut below Stairsteps,MeHg- filtered,0.103,ng/L,7193.8,Outlet,1.813,g/day
+"Mar 28-29, 2017",2017,Liberty Cut below Stairsteps,MeHg- particulate,0.206,ng/L,7193.8,Outlet,3.626,g/day
+"Mar 28-29, 2017",2017,Liberty Cut below Stairsteps,MeHg- total,0.309,ng/L,7193.8,Outlet,5.438,g/day
+"Mar 28-29, 2017",2017,Liberty Cut below Stairsteps,POC,0.6,mg/L as C,7193.8,Outlet,10.56,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Liberty Cut below Stairsteps,THg- filtered,1.45,ng/L,7193.8,Outlet,25.52,g/day
+"Mar 28-29, 2017",2017,Liberty Cut below Stairsteps,THg- particulate,14.2,ng/L,7193.8,Outlet,249.9,g/day
+"Mar 28-29, 2017",2017,Liberty Cut below Stairsteps,THg- total,15.6,ng/L,7193.8,Outlet,274.6,g/day
+"Mar 28-29, 2017",2017,Liberty Cut below Stairsteps,TOC,2.4,mg/L as C,7193.8,Outlet,42.24,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Liberty Cut below Stairsteps,TSS,60.5,mg/L,7193.8,Outlet,1065,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Liberty Cut below Stairsteps,VSS,9,mg/L,7193.8,Outlet,158.4,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Little Holland,Chloride- filtered,5,mg/L,14261.8,Outlet,174.5,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Little Holland,DOC,2,mg/L as C,14261.8,Outlet,69.79,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Little Holland,Iron- filtered,83,ug/L,14261.8,Outlet,2896,kg/day
+"Mar 28-29, 2017",2017,Little Holland,Manganese- filtered,6.22,ug/L,14261.8,Outlet,217,kg/day
+"Mar 28-29, 2017",2017,Little Holland,MeHg- filtered,0.086,ng/L,14261.8,Outlet,3.001,g/day
+"Mar 28-29, 2017",2017,Little Holland,MeHg- particulate,0.166,ng/L,14261.8,Outlet,5.792,g/day
+"Mar 28-29, 2017",2017,Little Holland,MeHg- total,0.252,ng/L,14261.8,Outlet,8.793,g/day
+"Mar 28-29, 2017",2017,Little Holland,POC,0.5,mg/L as C,14261.8,Outlet,17.45,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Little Holland,THg- filtered,1.48,ng/L,14261.8,Outlet,51.64,g/day
+"Mar 28-29, 2017",2017,Little Holland,THg- particulate,9.15,ng/L,14261.8,Outlet,319.3,g/day
+"Mar 28-29, 2017",2017,Little Holland,THg- total,10.6,ng/L,14261.8,Outlet,369.9,g/day
+"Mar 28-29, 2017",2017,Little Holland,TOC,2.5,mg/L as C,14261.8,Outlet,87.23,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Little Holland,TSS,41.8,mg/L,14261.8,Outlet,1459,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Little Holland,VSS,6,mg/L,14261.8,Outlet,209.4,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Main Liberty,Chloride- filtered,4,mg/L,1552.7,Outlet,15.2,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Main Liberty,DOC,1.8,mg/L as C,1552.7,Outlet,6.838,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Main Liberty,Iron- filtered,97.7,ug/L,1552.7,Outlet,371.1,kg/day
+"Mar 28-29, 2017",2017,Main Liberty,Manganese- filtered,7.56,ug/L,1552.7,Outlet,28.72,kg/day
+"Mar 28-29, 2017",2017,Main Liberty,MeHg- filtered,0.103,ng/L,1552.7,Outlet,0.3913,g/day
+"Mar 28-29, 2017",2017,Main Liberty,MeHg- particulate,0.206,ng/L,1552.7,Outlet,0.7826,g/day
+"Mar 28-29, 2017",2017,Main Liberty,MeHg- total,0.309,ng/L,1552.7,Outlet,1.174,g/day
+"Mar 28-29, 2017",2017,Main Liberty,POC,0.6,mg/L as C,1552.7,Outlet,2.279,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Main Liberty,THg- filtered,1.45,ng/L,1552.7,Outlet,5.508,g/day
+"Mar 28-29, 2017",2017,Main Liberty,THg- particulate,14.2,ng/L,1552.7,Outlet,53.94,g/day
+"Mar 28-29, 2017",2017,Main Liberty,THg- total,15.6,ng/L,1552.7,Outlet,59.26,g/day
+"Mar 28-29, 2017",2017,Main Liberty,TOC,2.4,mg/L as C,1552.7,Outlet,9.117,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Main Liberty,TSS,60.5,mg/L,1552.7,Outlet,229.8,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Main Liberty,VSS,9,mg/L,1552.7,Outlet,34.19,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Shag Slough below Stairsteps,Chloride- filtered,18,mg/L,6854.3,Outlet,301.9,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Shag Slough below Stairsteps,DOC,4,mg/L as C,6854.3,Outlet,67.08,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Shag Slough below Stairsteps,Iron- filtered,41.5,ug/L,6854.3,Outlet,695.9,kg/day
+"Mar 28-29, 2017",2017,Shag Slough below Stairsteps,Manganese- filtered,9.31,ug/L,6854.3,Outlet,156.1,kg/day
+"Mar 28-29, 2017",2017,Shag Slough below Stairsteps,MeHg- filtered,0.115,ng/L,6854.3,Outlet,1.929,g/day
+"Mar 28-29, 2017",2017,Shag Slough below Stairsteps,MeHg- particulate,0.433,ng/L,6854.3,Outlet,7.261,g/day
+"Mar 28-29, 2017",2017,Shag Slough below Stairsteps,MeHg- total,0.548,ng/L,6854.3,Outlet,9.19,g/day
+"Mar 28-29, 2017",2017,Shag Slough below Stairsteps,POC,0.6,mg/L as C,6854.3,Outlet,10.06,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Shag Slough below Stairsteps,THg- filtered,1.4,ng/L,6854.3,Outlet,23.48,g/day
+"Mar 28-29, 2017",2017,Shag Slough below Stairsteps,THg- particulate,4.9,ng/L,6854.3,Outlet,82.17,g/day
+"Mar 28-29, 2017",2017,Shag Slough below Stairsteps,THg- total,6.3,ng/L,6854.3,Outlet,105.6,g/day
+"Mar 28-29, 2017",2017,Shag Slough below Stairsteps,TOC,4.6,mg/L as C,6854.3,Outlet,77.14,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Shag Slough below Stairsteps,TSS,27,mg/L,6854.3,Outlet,452.8,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Shag Slough below Stairsteps,VSS,4,mg/L,6854.3,Outlet,67.08,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Toe Drain at 1/2 Lisbon,Chloride- filtered,6,mg/L,5880.9,Outlet,86.33,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Toe Drain at 1/2 Lisbon,DOC,2.2,mg/L as C,5880.9,Outlet,31.65,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Toe Drain at 1/2 Lisbon,Iron- filtered,68.2,ug/L,5880.9,Outlet,981.3,kg/day
+"Mar 28-29, 2017",2017,Toe Drain at 1/2 Lisbon,Manganese- filtered,4.87,ug/L,5880.9,Outlet,70.07,kg/day
+"Mar 28-29, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- filtered,0.069,ng/L,5880.9,Outlet,0.9928,g/day
+"Mar 28-29, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- particulate,0.127,ng/L,5880.9,Outlet,1.827,g/day
+"Mar 28-29, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- total,0.196,ng/L,5880.9,Outlet,2.82,g/day
+"Mar 28-29, 2017",2017,Toe Drain at 1/2 Lisbon,POC,0.4,mg/L as C,5880.9,Outlet,5.755,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Toe Drain at 1/2 Lisbon,THg- filtered,1.5,ng/L,5880.9,Outlet,21.58,g/day
+"Mar 28-29, 2017",2017,Toe Drain at 1/2 Lisbon,THg- particulate,4.1,ng/L,5880.9,Outlet,58.99,g/day
+"Mar 28-29, 2017",2017,Toe Drain at 1/2 Lisbon,THg- total,5.6,ng/L,5880.9,Outlet,80.57,g/day
+"Mar 28-29, 2017",2017,Toe Drain at 1/2 Lisbon,TOC,2.6,mg/L as C,5880.9,Outlet,37.41,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Toe Drain at 1/2 Lisbon,TSS,23,mg/L,5880.9,Outlet,330.9,"1,000 kg/day"
+"Mar 28-29, 2017",2017,Toe Drain at 1/2 Lisbon,VSS,3,mg/L,5880.9,Outlet,43.16,"1,000 kg/day"
+"Apr 11-12, 2017",2017,CCSB- Low Flow Channel,Chloride- filtered,21,mg/L,235.4,Inlet,12.09,"1,000 kg/day"
+"Apr 11-12, 2017",2017,CCSB- Low Flow Channel,DOC,3.4,mg/L as C,235.4,Inlet,1.958,"1,000 kg/day"
+"Apr 11-12, 2017",2017,CCSB- Low Flow Channel,Iron- filtered,7.58,ug/L,235.4,Inlet,4.366,kg/day
+"Apr 11-12, 2017",2017,CCSB- Low Flow Channel,Manganese- filtered,19.7,ug/L,235.4,Inlet,11.35,kg/day
+"Apr 11-12, 2017",2017,CCSB- Low Flow Channel,MeHg- filtered,0.103,ng/L,235.4,Inlet,0.05932,g/day
+"Apr 11-12, 2017",2017,CCSB- Low Flow Channel,MeHg- particulate,0.173,ng/L,235.4,Inlet,0.09964,g/day
+"Apr 11-12, 2017",2017,CCSB- Low Flow Channel,MeHg- total,0.276,ng/L,235.4,Inlet,0.159,g/day
+"Apr 11-12, 2017",2017,CCSB- Low Flow Channel,POC,0.3,mg/L as C,235.4,Inlet,0.1728,"1,000 kg/day"
+"Apr 11-12, 2017",2017,CCSB- Low Flow Channel,THg- filtered,1.2,ng/L,235.4,Inlet,0.6911,g/day
+"Apr 11-12, 2017",2017,CCSB- Low Flow Channel,THg- particulate,3.85,ng/L,235.4,Inlet,2.217,g/day
+"Apr 11-12, 2017",2017,CCSB- Low Flow Channel,THg- total,5.05,ng/L,235.4,Inlet,2.908,g/day
+"Apr 11-12, 2017",2017,CCSB- Low Flow Channel,TOC,3.7,mg/L as C,235.4,Inlet,2.131,"1,000 kg/day"
+"Apr 11-12, 2017",2017,CCSB- Low Flow Channel,TSS,13,mg/L,235.4,Inlet,7.487,"1,000 kg/day"
+"Apr 11-12, 2017",2017,CCSB- Low Flow Channel,VSS,3,mg/L,235.4,Inlet,1.728,"1,000 kg/day"
+"Apr 11-12, 2017",2017,CCSB- Overflow Weir,Chloride- filtered,23,mg/L,472.9,Inlet,26.61,"1,000 kg/day"
+"Apr 11-12, 2017",2017,CCSB- Overflow Weir,DOC,3.65,mg/L as C,472.9,Inlet,4.223,"1,000 kg/day"
+"Apr 11-12, 2017",2017,CCSB- Overflow Weir,Iron- filtered,6.88,ug/L,472.9,Inlet,7.96,kg/day
+"Apr 11-12, 2017",2017,CCSB- Overflow Weir,Manganese- filtered,21.7,ug/L,472.9,Inlet,25.11,kg/day
+"Apr 11-12, 2017",2017,CCSB- Overflow Weir,MeHg- filtered,0.144,ng/L,472.9,Inlet,0.1666,g/day
+"Apr 11-12, 2017",2017,CCSB- Overflow Weir,MeHg- particulate,0.195,ng/L,472.9,Inlet,0.2256,g/day
+"Apr 11-12, 2017",2017,CCSB- Overflow Weir,MeHg- total,0.338,ng/L,472.9,Inlet,0.3911,g/day
+"Apr 11-12, 2017",2017,CCSB- Overflow Weir,POC,0,mg/L as C,472.9,Inlet,0,"1,000 kg/day"
+"Apr 11-12, 2017",2017,CCSB- Overflow Weir,THg- filtered,1.4,ng/L,472.9,Inlet,1.62,g/day
+"Apr 11-12, 2017",2017,CCSB- Overflow Weir,THg- particulate,3.4,ng/L,472.9,Inlet,3.934,g/day
+"Apr 11-12, 2017",2017,CCSB- Overflow Weir,THg- total,4.8,ng/L,472.9,Inlet,5.554,g/day
+"Apr 11-12, 2017",2017,CCSB- Overflow Weir,TOC,3.65,mg/L as C,472.9,Inlet,4.223,"1,000 kg/day"
+"Apr 11-12, 2017",2017,CCSB- Overflow Weir,TSS,8,mg/L,472.9,Inlet,9.256,"1,000 kg/day"
+"Apr 11-12, 2017",2017,CCSB- Overflow Weir,VSS,2,mg/L,472.9,Inlet,2.314,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Fremont Weir,Chloride- filtered,3,mg/L,10358.1,Inlet,76.03,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Fremont Weir,DOC,1.47,mg/L as C,10358.1,Inlet,37.25,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Fremont Weir,Iron- filtered,110,ug/L,10358.1,Inlet,2788,kg/day
+"Apr 11-12, 2017",2017,Fremont Weir,Manganese- filtered,2.54,ug/L,10358.1,Inlet,64.37,kg/day
+"Apr 11-12, 2017",2017,Fremont Weir,MeHg- filtered,0.0368,ng/L,10358.1,Inlet,0.9326,g/day
+"Apr 11-12, 2017",2017,Fremont Weir,MeHg- particulate,0.0452,ng/L,10358.1,Inlet,1.145,g/day
+"Apr 11-12, 2017",2017,Fremont Weir,MeHg- total,0.082,ng/L,10358.1,Inlet,2.078,g/day
+"Apr 11-12, 2017",2017,Fremont Weir,POC,0.233,mg/L as C,10358.1,Inlet,5.905,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Fremont Weir,THg- filtered,1.72,ng/L,10358.1,Inlet,43.59,g/day
+"Apr 11-12, 2017",2017,Fremont Weir,THg- particulate,4.45,ng/L,10358.1,Inlet,112.8,g/day
+"Apr 11-12, 2017",2017,Fremont Weir,THg- total,6.17,ng/L,10358.1,Inlet,156.4,g/day
+"Apr 11-12, 2017",2017,Fremont Weir,TOC,1.7,mg/L as C,10358.1,Inlet,43.08,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Fremont Weir,TSS,39.4,mg/L,10358.1,Inlet,998.5,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Fremont Weir,VSS,4,mg/L,10358.1,Inlet,101.4,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Knights Landing Ridge Cut,Chloride- filtered,42,mg/L,427.1,Inlet,43.89,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Knights Landing Ridge Cut,DOC,6.2,mg/L as C,427.1,Inlet,6.479,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Knights Landing Ridge Cut,Iron- filtered,14.9,ug/L,427.1,Inlet,15.57,kg/day
+"Apr 11-12, 2017",2017,Knights Landing Ridge Cut,Manganese- filtered,68.1,ug/L,427.1,Inlet,71.16,kg/day
+"Apr 11-12, 2017",2017,Knights Landing Ridge Cut,MeHg- filtered,0.087,ng/L,427.1,Inlet,0.09091,g/day
+"Apr 11-12, 2017",2017,Knights Landing Ridge Cut,MeHg- particulate,0.032,ng/L,427.1,Inlet,0.03344,g/day
+"Apr 11-12, 2017",2017,Knights Landing Ridge Cut,MeHg- total,0.119,ng/L,427.1,Inlet,0.1243,g/day
+"Apr 11-12, 2017",2017,Knights Landing Ridge Cut,POC,0.4,mg/L as C,427.1,Inlet,0.418,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Knights Landing Ridge Cut,THg- filtered,0.5,ng/L,427.1,Inlet,0.5225,g/day
+"Apr 11-12, 2017",2017,Knights Landing Ridge Cut,THg- particulate,2.3,ng/L,427.1,Inlet,2.403,g/day
+"Apr 11-12, 2017",2017,Knights Landing Ridge Cut,THg- total,2.8,ng/L,427.1,Inlet,2.926,g/day
+"Apr 11-12, 2017",2017,Knights Landing Ridge Cut,TOC,6.6,mg/L as C,427.1,Inlet,6.897,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Knights Landing Ridge Cut,TSS,53,mg/L,427.1,Inlet,55.38,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Knights Landing Ridge Cut,VSS,9,mg/L,427.1,Inlet,9.404,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Putah Creek at Mace Blvd,Chloride- filtered,6,mg/L,1145,Inlet,16.81,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Putah Creek at Mace Blvd,DOC,2.7,mg/L as C,1145,Inlet,7.564,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Putah Creek at Mace Blvd,Iron- filtered,132,ug/L,1145,Inlet,369.8,kg/day
+"Apr 11-12, 2017",2017,Putah Creek at Mace Blvd,Manganese- filtered,9.22,ug/L,1145,Inlet,25.83,kg/day
+"Apr 11-12, 2017",2017,Putah Creek at Mace Blvd,MeHg- filtered,0.056,ng/L,1145,Inlet,0.1569,g/day
+"Apr 11-12, 2017",2017,Putah Creek at Mace Blvd,MeHg- particulate,0.081,ng/L,1145,Inlet,0.2269,g/day
+"Apr 11-12, 2017",2017,Putah Creek at Mace Blvd,MeHg- total,0.137,ng/L,1145,Inlet,0.3838,g/day
+"Apr 11-12, 2017",2017,Putah Creek at Mace Blvd,POC,0,mg/L as C,1145,Inlet,0,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Putah Creek at Mace Blvd,THg- filtered,1.1,ng/L,1145,Inlet,3.081,g/day
+"Apr 11-12, 2017",2017,Putah Creek at Mace Blvd,THg- particulate,3.2,ng/L,1145,Inlet,8.964,g/day
+"Apr 11-12, 2017",2017,Putah Creek at Mace Blvd,THg- total,4.3,ng/L,1145,Inlet,12.05,g/day
+"Apr 11-12, 2017",2017,Putah Creek at Mace Blvd,TOC,2.7,mg/L as C,1145,Inlet,7.564,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Putah Creek at Mace Blvd,TSS,17,mg/L,1145,Inlet,47.62,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Putah Creek at Mace Blvd,VSS,2,mg/L,1145,Inlet,5.603,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,Chloride- filtered,8,mg/L,12638.5,Outlet,247.4,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,DOC,2.75,mg/L as C,12638.5,Outlet,85.03,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,Iron- filtered,66.6,ug/L,12638.5,Outlet,2059,kg/day
+"Apr 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,Manganese- filtered,20.5,ug/L,12638.5,Outlet,633.9,kg/day
+"Apr 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- filtered,0.145,ng/L,12638.5,Outlet,4.484,g/day
+"Apr 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- particulate,0.284,ng/L,12638.5,Outlet,8.782,g/day
+"Apr 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- total,0.429,ng/L,12638.5,Outlet,13.27,g/day
+"Apr 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,POC,0.3,mg/L as C,12638.5,Outlet,9.276,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,THg- filtered,1.65,ng/L,12638.5,Outlet,51.02,g/day
+"Apr 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,THg- particulate,4.17,ng/L,12638.5,Outlet,128.9,g/day
+"Apr 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,THg- total,5.82,ng/L,12638.5,Outlet,180,g/day
+"Apr 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,TOC,3.05,mg/L as C,12638.5,Outlet,94.31,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,TSS,24.5,mg/L,12638.5,Outlet,757.6,"1,000 kg/day"
+"Apr 11-12, 2017",2017,Toe Drain at 1/2 Lisbon,VSS,5,mg/L,12638.5,Outlet,154.6,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Below Liberty Island,Chloride- filtered,,,,Below Liberty,565.6,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Below Liberty Island,DOC,,,,Below Liberty,134.3,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Below Liberty Island,Iron- filtered,,,,Below Liberty,7038,kg/day
+"Apr 25-26, 2017",2017,Below Liberty Island,Manganese- filtered,,,,Below Liberty,471.3,kg/day
+"Apr 25-26, 2017",2017,Below Liberty Island,MeHg- filtered,,,,Below Liberty,10.77,g/day
+"Apr 25-26, 2017",2017,Below Liberty Island,MeHg- particulate,,,,Below Liberty,11.29,g/day
+"Apr 25-26, 2017",2017,Below Liberty Island,MeHg- total,,,,Below Liberty,22.06,g/day
+"Apr 25-26, 2017",2017,Below Liberty Island,POC,,,,Below Liberty,12.62,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Below Liberty Island,THg- filtered,,,,Below Liberty,150.4,g/day
+"Apr 25-26, 2017",2017,Below Liberty Island,THg- particulate,,,,Below Liberty,289,g/day
+"Apr 25-26, 2017",2017,Below Liberty Island,THg- total,,,,Below Liberty,439.4,g/day
+"Apr 25-26, 2017",2017,Below Liberty Island,TOC,,,,Below Liberty,146.9,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Below Liberty Island,TSS,,,,Below Liberty,1432,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Below Liberty Island,VSS,,,,Below Liberty,187.2,"1,000 kg/day"
+"Apr 25-26, 2017",2017,CCSB- Low Flow Channel,Chloride- filtered,26,mg/L,225.9,Inlet,14.37,"1,000 kg/day"
+"Apr 25-26, 2017",2017,CCSB- Low Flow Channel,DOC,3.1,mg/L as C,225.9,Inlet,1.713,"1,000 kg/day"
+"Apr 25-26, 2017",2017,CCSB- Low Flow Channel,Iron- filtered,3.52,ug/L,225.9,Inlet,1.945,kg/day
+"Apr 25-26, 2017",2017,CCSB- Low Flow Channel,Manganese- filtered,26.8,ug/L,225.9,Inlet,14.81,kg/day
+"Apr 25-26, 2017",2017,CCSB- Low Flow Channel,MeHg- filtered,0.154,ng/L,225.9,Inlet,0.08511,g/day
+"Apr 25-26, 2017",2017,CCSB- Low Flow Channel,MeHg- particulate,0.201,ng/L,225.9,Inlet,0.1111,g/day
+"Apr 25-26, 2017",2017,CCSB- Low Flow Channel,MeHg- total,0.355,ng/L,225.9,Inlet,0.1962,g/day
+"Apr 25-26, 2017",2017,CCSB- Low Flow Channel,POC,0.4,mg/L as C,225.9,Inlet,0.2211,"1,000 kg/day"
+"Apr 25-26, 2017",2017,CCSB- Low Flow Channel,THg- filtered,1.8,ng/L,225.9,Inlet,0.9948,g/day
+"Apr 25-26, 2017",2017,CCSB- Low Flow Channel,THg- particulate,3.3,ng/L,225.9,Inlet,1.824,g/day
+"Apr 25-26, 2017",2017,CCSB- Low Flow Channel,THg- total,5.1,ng/L,225.9,Inlet,2.819,g/day
+"Apr 25-26, 2017",2017,CCSB- Low Flow Channel,TOC,3.5,mg/L as C,225.9,Inlet,1.934,"1,000 kg/day"
+"Apr 25-26, 2017",2017,CCSB- Low Flow Channel,TSS,10,mg/L,225.9,Inlet,5.527,"1,000 kg/day"
+"Apr 25-26, 2017",2017,CCSB- Low Flow Channel,VSS,1,mg/L,225.9,Inlet,0.5527,"1,000 kg/day"
+"Apr 25-26, 2017",2017,CCSB- Overflow Weir,Chloride- filtered,22,mg/L,23.1,Inlet,1.243,"1,000 kg/day"
+"Apr 25-26, 2017",2017,CCSB- Overflow Weir,DOC,3.9,mg/L as C,23.1,Inlet,0.2204,"1,000 kg/day"
+"Apr 25-26, 2017",2017,CCSB- Overflow Weir,Iron- filtered,3.91,ug/L,23.1,Inlet,0.221,kg/day
+"Apr 25-26, 2017",2017,CCSB- Overflow Weir,Manganese- filtered,19.3,ug/L,23.1,Inlet,1.091,kg/day
+"Apr 25-26, 2017",2017,CCSB- Overflow Weir,MeHg- filtered,0.211,ng/L,23.1,Inlet,0.01192,g/day
+"Apr 25-26, 2017",2017,CCSB- Overflow Weir,MeHg- particulate,0.464,ng/L,23.1,Inlet,0.02622,g/day
+"Apr 25-26, 2017",2017,CCSB- Overflow Weir,MeHg- total,0.675,ng/L,23.1,Inlet,0.03815,g/day
+"Apr 25-26, 2017",2017,CCSB- Overflow Weir,POC,0.1,mg/L as C,23.1,Inlet,0.005652,"1,000 kg/day"
+"Apr 25-26, 2017",2017,CCSB- Overflow Weir,THg- filtered,2.5,ng/L,23.1,Inlet,0.1413,g/day
+"Apr 25-26, 2017",2017,CCSB- Overflow Weir,THg- particulate,6.5,ng/L,23.1,Inlet,0.3674,g/day
+"Apr 25-26, 2017",2017,CCSB- Overflow Weir,THg- total,9,ng/L,23.1,Inlet,0.5086,g/day
+"Apr 25-26, 2017",2017,CCSB- Overflow Weir,TOC,4,mg/L as C,23.1,Inlet,0.2261,"1,000 kg/day"
+"Apr 25-26, 2017",2017,CCSB- Overflow Weir,TSS,22,mg/L,23.1,Inlet,1.243,"1,000 kg/day"
+"Apr 25-26, 2017",2017,CCSB- Overflow Weir,VSS,2,mg/L,23.1,Inlet,0.113,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Fremont Weir,Chloride- filtered,2.33,mg/L,36940.4,Inlet,210.6,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Fremont Weir,DOC,0.65,mg/L as C,36940.4,Inlet,58.75,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Fremont Weir,Iron- filtered,63.9,ug/L,36940.4,Inlet,5775,kg/day
+"Apr 25-26, 2017",2017,Fremont Weir,Manganese- filtered,3.11,ug/L,36940.4,Inlet,281.1,kg/day
+"Apr 25-26, 2017",2017,Fremont Weir,MeHg- filtered,0.0227,ng/L,36940.4,Inlet,2.052,g/day
+"Apr 25-26, 2017",2017,Fremont Weir,MeHg- particulate,0.0352,ng/L,36940.4,Inlet,3.181,g/day
+"Apr 25-26, 2017",2017,Fremont Weir,MeHg- total,0.0578,ng/L,36940.4,Inlet,5.224,g/day
+"Apr 25-26, 2017",2017,Fremont Weir,POC,0.133,mg/L as C,36940.4,Inlet,12.02,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Fremont Weir,THg- filtered,1.37,ng/L,36940.4,Inlet,123.8,g/day
+"Apr 25-26, 2017",2017,Fremont Weir,THg- particulate,4.5,ng/L,36940.4,Inlet,406.7,g/day
+"Apr 25-26, 2017",2017,Fremont Weir,THg- total,5.87,ng/L,36940.4,Inlet,530.5,g/day
+"Apr 25-26, 2017",2017,Fremont Weir,TOC,0.783,mg/L as C,36940.4,Inlet,70.77,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Fremont Weir,TSS,34.2,mg/L,36940.4,Inlet,3091,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Fremont Weir,VSS,2,mg/L,36940.4,Inlet,180.8,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Knights Landing Ridge Cut,Chloride- filtered,37,mg/L,307.7,Inlet,27.85,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Knights Landing Ridge Cut,DOC,6.7,mg/L as C,307.7,Inlet,5.044,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Knights Landing Ridge Cut,Iron- filtered,10,ug/L,307.7,Inlet,7.528,kg/day
+"Apr 25-26, 2017",2017,Knights Landing Ridge Cut,Manganese- filtered,9.3,ug/L,307.7,Inlet,7.001,kg/day
+"Apr 25-26, 2017",2017,Knights Landing Ridge Cut,MeHg- filtered,0.039,ng/L,307.7,Inlet,0.02936,g/day
+"Apr 25-26, 2017",2017,Knights Landing Ridge Cut,MeHg- particulate,0.159,ng/L,307.7,Inlet,0.1197,g/day
+"Apr 25-26, 2017",2017,Knights Landing Ridge Cut,MeHg- total,0.198,ng/L,307.7,Inlet,0.1491,g/day
+"Apr 25-26, 2017",2017,Knights Landing Ridge Cut,POC,0.7,mg/L as C,307.7,Inlet,0.527,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Knights Landing Ridge Cut,THg- filtered,0.8,ng/L,307.7,Inlet,0.6023,g/day
+"Apr 25-26, 2017",2017,Knights Landing Ridge Cut,THg- particulate,1.2,ng/L,307.7,Inlet,0.9034,g/day
+"Apr 25-26, 2017",2017,Knights Landing Ridge Cut,THg- total,2,ng/L,307.7,Inlet,1.506,g/day
+"Apr 25-26, 2017",2017,Knights Landing Ridge Cut,TOC,7.4,mg/L as C,307.7,Inlet,5.571,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Knights Landing Ridge Cut,TSS,39,mg/L,307.7,Inlet,29.36,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Knights Landing Ridge Cut,VSS,5,mg/L,307.7,Inlet,3.764,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Putah Creek at Mace Blvd,Chloride- filtered,7,mg/L,755,Inlet,12.93,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Putah Creek at Mace Blvd,DOC,2.7,mg/L as C,755,Inlet,4.987,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Putah Creek at Mace Blvd,Iron- filtered,12.1,ug/L,755,Inlet,22.35,kg/day
+"Apr 25-26, 2017",2017,Putah Creek at Mace Blvd,Manganese- filtered,7.21,ug/L,755,Inlet,13.32,kg/day
+"Apr 25-26, 2017",2017,Putah Creek at Mace Blvd,MeHg- filtered,0.062,ng/L,755,Inlet,0.1145,g/day
+"Apr 25-26, 2017",2017,Putah Creek at Mace Blvd,MeHg- particulate,0.065,ng/L,755,Inlet,0.1201,g/day
+"Apr 25-26, 2017",2017,Putah Creek at Mace Blvd,MeHg- total,0.127,ng/L,755,Inlet,0.2346,g/day
+"Apr 25-26, 2017",2017,Putah Creek at Mace Blvd,POC,0,mg/L as C,755,Inlet,0,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Putah Creek at Mace Blvd,THg- filtered,1.5,ng/L,755,Inlet,2.771,g/day
+"Apr 25-26, 2017",2017,Putah Creek at Mace Blvd,THg- particulate,3.6,ng/L,755,Inlet,6.65,g/day
+"Apr 25-26, 2017",2017,Putah Creek at Mace Blvd,THg- total,5.1,ng/L,755,Inlet,9.421,g/day
+"Apr 25-26, 2017",2017,Putah Creek at Mace Blvd,TOC,2.7,mg/L as C,755,Inlet,4.987,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Putah Creek at Mace Blvd,TSS,14,mg/L,755,Inlet,25.86,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Putah Creek at Mace Blvd,VSS,1,mg/L,755,Inlet,1.847,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Liberty Cut below Stairsteps,Chloride- filtered,2,mg/L,7669.8,Outlet,37.53,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Liberty Cut below Stairsteps,DOC,0.9,mg/L as C,7669.8,Outlet,16.89,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Liberty Cut below Stairsteps,Iron- filtered,79,ug/L,7669.8,Outlet,1482,kg/day
+"Apr 25-26, 2017",2017,Liberty Cut below Stairsteps,Manganese- filtered,9.86,ug/L,7669.8,Outlet,185,kg/day
+"Apr 25-26, 2017",2017,Liberty Cut below Stairsteps,MeHg- filtered,0.085,ng/L,7669.8,Outlet,1.595,g/day
+"Apr 25-26, 2017",2017,Liberty Cut below Stairsteps,MeHg- particulate,0.113,ng/L,7669.8,Outlet,2.12,g/day
+"Apr 25-26, 2017",2017,Liberty Cut below Stairsteps,MeHg- total,0.198,ng/L,7669.8,Outlet,3.715,g/day
+"Apr 25-26, 2017",2017,Liberty Cut below Stairsteps,POC,0.1,mg/L as C,7669.8,Outlet,1.876,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Liberty Cut below Stairsteps,THg- filtered,1.4,ng/L,7669.8,Outlet,26.27,g/day
+"Apr 25-26, 2017",2017,Liberty Cut below Stairsteps,THg- particulate,5.5,ng/L,7669.8,Outlet,103.2,g/day
+"Apr 25-26, 2017",2017,Liberty Cut below Stairsteps,THg- total,6.9,ng/L,7669.8,Outlet,129.5,g/day
+"Apr 25-26, 2017",2017,Liberty Cut below Stairsteps,TOC,1,mg/L as C,7669.8,Outlet,18.76,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Liberty Cut below Stairsteps,TSS,23,mg/L,7669.8,Outlet,431.6,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Liberty Cut below Stairsteps,VSS,2,mg/L,7669.8,Outlet,37.53,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Little Holland,Chloride- filtered,2.5,mg/L,15277.5,Outlet,93.44,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Little Holland,DOC,0.95,mg/L as C,15277.5,Outlet,35.51,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Little Holland,Iron- filtered,61.6,ug/L,15277.5,Outlet,2302,kg/day
+"Apr 25-26, 2017",2017,Little Holland,Manganese- filtered,8.72,ug/L,15277.5,Outlet,325.9,kg/day
+"Apr 25-26, 2017",2017,Little Holland,MeHg- filtered,0.0775,ng/L,15277.5,Outlet,2.897,g/day
+"Apr 25-26, 2017",2017,Little Holland,MeHg- particulate,0.0965,ng/L,15277.5,Outlet,3.607,g/day
+"Apr 25-26, 2017",2017,Little Holland,MeHg- total,0.174,ng/L,15277.5,Outlet,6.504,g/day
+"Apr 25-26, 2017",2017,Little Holland,POC,0.1,mg/L as C,15277.5,Outlet,3.738,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Little Holland,THg- filtered,1.45,ng/L,15277.5,Outlet,54.2,g/day
+"Apr 25-26, 2017",2017,Little Holland,THg- particulate,5.7,ng/L,15277.5,Outlet,213.1,g/day
+"Apr 25-26, 2017",2017,Little Holland,THg- total,7.15,ng/L,15277.5,Outlet,267.3,g/day
+"Apr 25-26, 2017",2017,Little Holland,TOC,1.05,mg/L as C,15277.5,Outlet,39.25,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Little Holland,TSS,20,mg/L,15277.5,Outlet,747.6,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Little Holland,VSS,1.5,mg/L,15277.5,Outlet,56.07,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Main Liberty,Chloride- filtered,2,mg/L,1635.5,Outlet,8.003,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Main Liberty,DOC,0.9,mg/L as C,1635.5,Outlet,3.601,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Main Liberty,Iron- filtered,79,ug/L,1635.5,Outlet,316.1,kg/day
+"Apr 25-26, 2017",2017,Main Liberty,Manganese- filtered,9.86,ug/L,1635.5,Outlet,39.45,kg/day
+"Apr 25-26, 2017",2017,Main Liberty,MeHg- filtered,0.085,ng/L,1635.5,Outlet,0.3401,g/day
+"Apr 25-26, 2017",2017,Main Liberty,MeHg- particulate,0.113,ng/L,1635.5,Outlet,0.4522,g/day
+"Apr 25-26, 2017",2017,Main Liberty,MeHg- total,0.198,ng/L,1635.5,Outlet,0.7923,g/day
+"Apr 25-26, 2017",2017,Main Liberty,POC,0.1,mg/L as C,1635.5,Outlet,0.4001,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Main Liberty,THg- filtered,1.4,ng/L,1635.5,Outlet,5.602,g/day
+"Apr 25-26, 2017",2017,Main Liberty,THg- particulate,5.5,ng/L,1635.5,Outlet,22.01,g/day
+"Apr 25-26, 2017",2017,Main Liberty,THg- total,6.9,ng/L,1635.5,Outlet,27.61,g/day
+"Apr 25-26, 2017",2017,Main Liberty,TOC,1,mg/L as C,1635.5,Outlet,4.001,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Main Liberty,TSS,23,mg/L,1635.5,Outlet,92.03,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Main Liberty,VSS,2,mg/L,1635.5,Outlet,8.003,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Shag Slough below Stairsteps,Chloride- filtered,12,mg/L,7358.6,Outlet,216,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Shag Slough below Stairsteps,DOC,2.9,mg/L as C,7358.6,Outlet,52.21,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Shag Slough below Stairsteps,Iron- filtered,23.6,ug/L,7358.6,Outlet,424.9,kg/day
+"Apr 25-26, 2017",2017,Shag Slough below Stairsteps,Manganese- filtered,7.41,ug/L,7358.6,Outlet,133.4,kg/day
+"Apr 25-26, 2017",2017,Shag Slough below Stairsteps,MeHg- filtered,0.137,ng/L,7358.6,Outlet,2.466,g/day
+"Apr 25-26, 2017",2017,Shag Slough below Stairsteps,MeHg- particulate,0.379,ng/L,7358.6,Outlet,6.823,g/day
+"Apr 25-26, 2017",2017,Shag Slough below Stairsteps,MeHg- total,0.516,ng/L,7358.6,Outlet,9.29,g/day
+"Apr 25-26, 2017",2017,Shag Slough below Stairsteps,POC,0.5,mg/L as C,7358.6,Outlet,9.002,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Shag Slough below Stairsteps,THg- filtered,3.5,ng/L,7358.6,Outlet,63.01,g/day
+"Apr 25-26, 2017",2017,Shag Slough below Stairsteps,THg- particulate,2.9,ng/L,7358.6,Outlet,52.21,g/day
+"Apr 25-26, 2017",2017,Shag Slough below Stairsteps,THg- total,6.4,ng/L,7358.6,Outlet,115.2,g/day
+"Apr 25-26, 2017",2017,Shag Slough below Stairsteps,TOC,3.4,mg/L as C,7358.6,Outlet,61.21,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Shag Slough below Stairsteps,TSS,27,mg/L,7358.6,Outlet,486.1,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Shag Slough below Stairsteps,VSS,4,mg/L,7358.6,Outlet,72.01,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Toe Drain at 1/2 Lisbon,Chloride- filtered,3,mg/L,6310.8,Outlet,46.32,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Toe Drain at 1/2 Lisbon,DOC,1,mg/L as C,6310.8,Outlet,15.44,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Toe Drain at 1/2 Lisbon,Iron- filtered,44.3,ug/L,6310.8,Outlet,684,kg/day
+"Apr 25-26, 2017",2017,Toe Drain at 1/2 Lisbon,Manganese- filtered,7.58,ug/L,6310.8,Outlet,117,kg/day
+"Apr 25-26, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- filtered,0.07,ng/L,6310.8,Outlet,1.081,g/day
+"Apr 25-26, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- particulate,0.08,ng/L,6310.8,Outlet,1.235,g/day
+"Apr 25-26, 2017",2017,Toe Drain at 1/2 Lisbon,MeHg- total,0.15,ng/L,6310.8,Outlet,2.316,g/day
+"Apr 25-26, 2017",2017,Toe Drain at 1/2 Lisbon,POC,0.1,mg/L as C,6310.8,Outlet,1.544,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Toe Drain at 1/2 Lisbon,THg- filtered,1.5,ng/L,6310.8,Outlet,23.16,g/day
+"Apr 25-26, 2017",2017,Toe Drain at 1/2 Lisbon,THg- particulate,5.9,ng/L,6310.8,Outlet,91.1,g/day
+"Apr 25-26, 2017",2017,Toe Drain at 1/2 Lisbon,THg- total,7.4,ng/L,6310.8,Outlet,114.3,g/day
+"Apr 25-26, 2017",2017,Toe Drain at 1/2 Lisbon,TOC,1.1,mg/L as C,6310.8,Outlet,16.98,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Toe Drain at 1/2 Lisbon,TSS,17,mg/L,6310.8,Outlet,262.5,"1,000 kg/day"
+"Apr 25-26, 2017",2017,Toe Drain at 1/2 Lisbon,VSS,1,mg/L,6310.8,Outlet,15.44,"1,000 kg/day"
