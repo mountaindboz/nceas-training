@@ -1,0 +1,90 @@
+---
+title: "Data Tidying"
+author: "Dave Bosworth"
+date: "11/6/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, warning = FALSE, message = FALSE}
+# Load packages
+library(tidyverse)
+```
+
+# Read and Clean Data
+
+```{r}
+catch_original <- read.csv(url("https://knb.ecoinformatics.org/knb/d1/mn/v2/object/df35b.302.1", method = "libcurl"), stringsAsFactors = FALSE)
+
+head(catch_original)
+```
+
+Remove `all` and `notes` column because we don't need them.
+
+```{r}
+catch_data <- catch_original %>% 
+  select(-c(All, notesRegCode))
+
+head(catch_data)
+```
+
+```{r}
+summary(catch_data)
+```
+
+## Fix Chinook Column
+
+Use `mutate` to fix Chinook column
+
+```{r}
+catch_clean <- catch_data %>% 
+  mutate(Chinook = as.numeric(Chinook))
+
+summary(catch_clean)
+```
+
+Finding rows that were converted to NA
+
+```{r}
+i <- which(is.na(catch_clean$Chinook))
+i
+```
+
+```{r}
+catch_original[i, ]
+```
+
+Convert the "I" to 1
+
+```{r}
+catch_clean <- catch_data %>% 
+  mutate(Chinook = if_else(Chinook == "I", "1", Chinook)) %>% 
+  mutate(Chinook = as.numeric(Chinook))
+
+summary(catch_clean)
+```
+
+
+# Reshape Data
+
+```{r}
+catch_long <- catch_clean %>% 
+  pivot_longer(
+    cols = c(Chinook:Chum),
+    names_to = "Species",
+    values_to = "Count"
+  )
+
+head(catch_long)
+```
+
+
+# Summarize Data
+
+
+# Join to Region Table
+
+
