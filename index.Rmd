@@ -15,6 +15,11 @@ knitr::opts_chunk$set(echo = TRUE)
 - [Analysis](MeHg_Net_Loads.html)
 - Discussion
 
+# Nicole's New section
+
+- this is where Nicole entered data
+- this is where Nicole entered more data
+
 ```{r graphics, fig.align = 'center', echo = FALSE}
 knitr::include_graphics("WorkingStyles.jpg")
 ```
