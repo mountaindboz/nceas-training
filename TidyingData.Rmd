@@ -3,6 +3,8 @@ title: "Data Tidying"
 author: "Dave Bosworth"
 date: "11/6/2019"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
@@ -81,10 +83,116 @@ catch_long <- catch_clean %>%
 head(catch_long)
 ```
 
+```{r}
+catch_wide <- catch_long %>% 
+  pivot_wider(
+    names_from = Year,
+    values_from = Count
+  )
+
+head(catch_wide)
+```
+
+`rename` count column to `catch_thousands`
+
+```{r}
+catch_long <- catch_long %>% 
+  mutate(catch = Count * 1000) %>% 
+  select(-Count)
+  
+head(catch_long)  
+```
 
 # Summarize Data
+
+```{r}
+mean_region <- catch_long %>% 
+  group_by(Region, Species) %>% 
+  summarize(
+    catch_mean = mean(catch),
+    num_obs = n()
+  )
+
+mean_region
+```
+
+Calculate total catch per species
+What is the most commonly caught species?
+
+```{r}
+total_species <- catch_long %>% 
+  group_by(Species) %>% 
+  summarize(catch_total = sum(catch)) %>% 
+  arrange(desc(catch_total))
+
+total_species
+```
+
+Using `filter`
+
+```{r}
+total_species_pre_1900 <- catch_long %>% 
+  filter(Year < 1900) %>% 
+  group_by(Species) %>% 
+  summarize(catch_total = sum(catch)) %>% 
+  arrange(desc(catch_total))
+
+total_species_pre_1900
+```
 
 
 # Join to Region Table
 
+Read in Region data table
+
+```{r}
+region_defs <- read.csv(url("https://knb.ecoinformatics.org/knb/d1/mn/v2/object/df35b.303.1", method = "libcurl"), stringsAsFactors = FALSE) %>% 
+  select(code, mgmtArea)
+
+head(region_defs)
+```
+
+Join tables
+
+```{r}
+catch_joined <- left_join(catch_long, region_defs, by = c("Region" = "code"))
+
+head(catch_joined)
+```
+
+# Separate and Unite
+
+```{r}
+site_codes <- data.frame(
+  site = c(
+    "HAW-100",
+    "HAW-101",
+    "HAW-102",
+    "HAW-103",
+    "HAW-100"
+  ),
+  stringsAsFactors = FALSE
+)
+```
+
+Separate island and site number using `separate`
+
+```{r}
+site_codes_split <- site_codes %>% 
+  separate(
+    site, 
+    into = c("island", "site_num"), 
+    sep = "-",
+    remove = FALSE
+  )
+
+site_codes_split
+```
+
+```{r}
+site_codes_unite <- site_codes_split %>% 
+  unite(col = site_code, island, site_num, sep = "_")
+
+site_codes_unite
+```
 
