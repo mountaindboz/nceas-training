@@ -1,0 +1,68 @@
+---
+title: "Writing Functions"
+author: "Dave Bosworth"
+date: "11/6/2019"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(roxygen2)
+```
+
+
+# Writing functions
+
+Create a vector of temperature values in degrees F
+
+```{r}
+airtemps <- c(212, 30, 78, 32)
+celcius <- (airtemps[1] - 32) * 5/9
+celcius
+```
+
+Create function to convert to celcius
+
+```{r}
+fahr2celcius <- function(fahr) {
+  celcius <- (fahr - 32) * 5/9
+  return(celcius)
+}
+```
+
+Use our function
+
+```{r}
+celcius_f <- fahr2celcius(airtemps[1])
+
+celcius_all <- fahr2celcius(airtemps)
+celcius_all
+```
+
+Create function to convert to F
+
+```{r}
+#' Converts Celcius to Fahrenheit temperatures
+#'
+#' A little need but more detailed explanation
+#' @param celcius the temperature in degrees celcius to be converted
+#' @return the temperature in Fahrenheit
+celcius2fahr <- function(celcius) {
+  fahr <- celcius * 9/5 + 32
+  return(fahr)
+}
+```
+
+Use our function
+
+```{r}
+fahr_all <- celcius2fahr(celcius_all)
+fahr_all
+fahr_all == airtemps
+```
+
