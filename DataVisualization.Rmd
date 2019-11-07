@@ -106,6 +106,17 @@ locations <- esc %>%
 datatable(locations)
 ```
 
+To make a nicely formatted static table
+
+```{r}
+row.names(locations) <- NULL
+knitr::kable(locations, "html") %>% 
+  kableExtra::kable_styling(
+    bootstrap_options = "striped",
+    position = "center"
+  )
+```
+
 # Create an interactive map
 
 ```{r}
